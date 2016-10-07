@@ -1,14 +1,15 @@
 import React from 'react'
-import DuckImage from '../assets/Duck.jpg'
+import ScienceBaseImage from '../assets/sb_icon.png'
 import './HomeView.scss'
 
 export const HomeView = () => (
   <div>
-    <h4>Welcome!</h4>
-    <img
-      alt='This is a duck, because Redux!'
-      className='duck'
-      src={DuckImage} />
+    <h4>Files Available to Move</h4>
+    <div className='col-md-4'><img
+      alt='This is a sciencebase, because Redux!'
+      className='sciencebase'
+      src={ScienceBaseImage} />
+    Put this cool icon somewhere</div>
   </div>
 )
 

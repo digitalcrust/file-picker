@@ -15,9 +15,9 @@ describe('(View) Home', () => {
     expect(welcome.text()).to.match(/Welcome!/)
   })
 
-  it('Renders an awesome duck image', () => {
-    const duck = _component.find('img')
-    expect(duck).to.exist
-    expect(duck.attr('alt')).to.match(/This is a duck, because Redux!/)
+  it('Renders an awesome sciencebase image', () => {
+    const sciencebase = _component.find('img')
+    expect(sciencebase).to.exist
+    expect(sciencebase.attr('alt')).to.match(/This is a sciencebase, because Redux!/)
   })
 })
