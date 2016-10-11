@@ -2,7 +2,7 @@
 
 ## Boilerplate
 
-Uses the [react-redux-starter-kit](https://github.com/rackt/react-router) for the starting boilerplate.  See the kit's [readme](https://github.com/davezuko/react-redux-starter-kit/blob/master/README.md) for explanation of the [fractal](https://github.com/davezuko/react-redux-starter-kit/wiki/Fractal-Project-Structure) project structure.
+Uses the [react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit) for the starting boilerplate.  See the kit's [readme](https://github.com/davezuko/react-redux-starter-kit/blob/master/README.md) for explanation of the [fractal](https://github.com/davezuko/react-redux-starter-kit/wiki/Fractal-Project-Structure) project structure.
 
 ## Express for Initial Development
 
