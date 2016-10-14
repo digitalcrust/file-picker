@@ -12,12 +12,7 @@ describe('(View) Home', () => {
   it('Renders a welcome message', () => {
     const welcome = _component.find('h4')
     expect(welcome).to.exist
-    expect(welcome.text()).to.match(/Welcome!/)
+    expect(welcome.text()).to.match(/Files Available to Move/)
   })
 
-  it('Renders an awesome sciencebase image', () => {
-    const sciencebase = _component.find('img')
-    expect(sciencebase).to.exist
-    expect(sciencebase.attr('alt')).to.match(/This is a sciencebase, because Redux!/)
-  })
 })

@@ -1,6 +1,7 @@
 import React from 'react'
 import { IndexLink, Link } from 'react-router'
 import './Header.scss'
+import ScienceBaseImage from '../assets/sb_icon.png'
 
 export const Header = () => (
   <div>
@@ -14,11 +15,23 @@ export const Header = () => (
           </div>
         </div>
       </div>
+      <div className="apptitle">
+
+      <img
+        alt='This is a sciencebase, because Redux!'
+        className='sciencebaseicon'
+        src={ScienceBaseImage} />
+        <h2>
+          Move Sciencebase Files from ESIP to S3
+        </h2>
+      </div>
     </div>
-    <h1>Move Sciencebase Files from ESIP to S3</h1>
     <IndexLink to='/' activeClassName='route--active'>
       Home
     </IndexLink>
+    <Link to='/counter' activeClassName='route--active'>
+      Counter
+    </Link>
   </div>
 )
 

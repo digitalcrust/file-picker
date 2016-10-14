@@ -10,10 +10,16 @@ describe('(Component) Header', () => {
     _wrapper = shallow(<Header />)
   })
 
+  it('Renders an awesome sciencebase image', () => {
+    const sciencebase = _wrapper.find('img.sciencebaseicon')
+    expect(sciencebase).to.exist
+    expect(sciencebase.prop('alt')).to.match(/This is a sciencebase, because Redux!/)
+  })
+
   it('Renders a welcome message', () => {
-    const welcome = _wrapper.find('h1')
+    const welcome = _wrapper.find('h2')
     expect(welcome).to.exist
-    expect(welcome.text()).to.match(/Choose Files from ScienceBase on S3/)
+    expect(welcome.text()).to.match(/Move Sciencebase Files from ESIP to S3/)
   })
 
   describe('Navigation links...', () => {
