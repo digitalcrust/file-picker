@@ -1,0 +1,621 @@
+{
+  "total": 191,
+  "took": "1.3s",
+  "selflink": {
+    "rel": "self",
+    "url": "https://www.sciencebase.gov/catalog/items?q=%24Habitat+Type+is+Related&format=json&fields=files%2Ctitle%2Cbody&max=20"
+  },
+  "nextlink": {
+    "rel": "next",
+    "url": "https://www.sciencebase.gov/catalog/items?q=%24Habitat+Type+is+Related&format=json&fields=files%2Ctitle%2Cbody&max=20&offset=20"
+  },
+  "items": [
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/5771b898e4b07657d1a6c910"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=5771b898e4b07657d1a6c910",
+          "rel": "related"
+        }
+      },
+      "id": "5771b898e4b07657d1a6c910",
+      "title": "Habitat Type is Related to Nest Mass and Fledging Success of Arctic Warblers",
+      "body": "Relatively little is known about Arctic Warblers (Phylloscopus borealis) that breed in central Alaska. We monitored Arctic Warbler populations in two adjacent but distinct habitat types in central Alaska (high elevation, ?open shrub? and lower elevation, ?dense shrub?). We collected 95 nests over three breeding seasons to learn more about nest-building behavior, nest mass, composition, fledging success, and nest parasites. Females were the sole builders of ground nests, which were primarily comprised of moss, grass, and a lining of moose (Alces alces) hair. Dry weight of nests was ?20Â&nbsp;g, but differed up to ?3-fold within each habitat type each season. Nests from open shrub habitats were more massive and contained less moose hair lining than nests in dense shrub. Open shrub nests fledged more young during the most productive breeding season. We report the first record of the parasitic blowfly Protocalliphora tundrae in Arctic Warbler nests and for Alaska. Blowfly parasitism (55% of nests with hatchlings) was similar in both habitat types and did not correlate with fledging success, or nest mass. Nests with greater amounts of moss tended to have lower levels of blowfly infestation.; Abstract Relatively little is known about Arctic Warblers (Phylloscopus borealis) that breed in central Alaska. We monitored Arctic Warbler populations in two adjacent but distinct habitat types in central Alaska (high elevation, ?open shrub? and lower elevation, ?dense shrub?). We collected 95 nests over three breeding seasons to learn more about nest-building behavior, nest mass, composition, fledging success, and nest parasites. Females were the sole builders of ground nests, which were primarily comprised of moss, grass, and a lining of moose (Alces alces) hair. Dry weight of nests was ?20Â&nbsp;g, but differed up to ?3-fold within each habitat type each season. Nests from open shrub habitats were more massive and contained less moose hair lining than nests in dense shrub. Open shrub nests fledged more young during the most productive breeding season. We report the first record of the parasitic blowfly Protocalliphora tundrae in Arctic Warbler nests and for Alaska. Blowfly parasitism (55% of nests with hatchlings) was similar in both habitat types and did not correlate with fledging success, or nest mass. Nests with greater amounts of moss tended to have lower levels of blowfly infestation.",
+      "files": []
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/56bcd524e4b08d617f66ad1f"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=56bcd524e4b08d617f66ad1f",
+          "rel": "related"
+        }
+      },
+      "id": "56bcd524e4b08d617f66ad1f",
+      "title": "Migrating birds’ use of stopover habitat in the southwestern United States",
+      "body": "<p>In the arid Southwest, migratory birds are known to use riparian stopover habitats; we know less about how migrants use other habitat types during migratory stopover. Using radar data and satellite land-cover data, we determined the habitats with which birds are associated during migration stopover. Bird densities differed significantly by habitat type at all sites in at least one season. In parts of Arizona and New Mexico upland forest supported high densities of migrants, especially in fall. Developed habitat, in areas with little upland forest, also supported high densities of migrants. Scrub/shrub and grassland habitats supported low to intermediate densities, but because these habitat types dominate the Southwestern landscape, they may provide stopover habitat for larger numbers of migratory birds than previously recognized. These results are complicated by continuing challenges related to target identity (i.e., distinguishing among birds, arthropods and bats). Our results suggest that it is too simplistic to:</p> \n<ol>\n <li>Consider the arid West as a largely inhospitable landscape in which there are only relatively small oases of habitat that provide the resources needed by all migrants,</li> \n <li>Think of western riparian and upland forests as supporting the majority of migrants in all cases, and</li> \n <li>Consider a particular habitat unimportant for stopover solely on the basis of low densities of migrants.</li> \n</ol>",
+      "files": [
+        {
+          "size": 6022,
+          "dateUploaded": "2016-02-11T18:38:28.000Z",
+          "name": "source.xml",
+          "pathOnDisk": "__disk__98/85/7f/98857f750da358a058c5fd496e59ad2fc2a46879",
+          "contentType": "application/xml",
+          "uploadedBy": "jllong@usgs.gov",
+          "url": "https://www.sciencebase.gov/catalog/file/get/56bcd524e4b08d617f66ad1f?f=__disk__98%2F85%2F7f%2F98857f750da358a058c5fd496e59ad2fc2a46879"
+        },
+        {
+          "imageWidth": 152,
+          "size": 15831,
+          "useForPreview": true,
+          "dateUploaded": "2016-02-11T18:38:28.000Z",
+          "name": "23179_cover_sm.jpg",
+          "pathOnDisk": "__disk__f3/09/71/f3097144a6e8d4d7c050cbcfb9d640c390493822",
+          "contentType": "image/jpeg",
+          "uploadedBy": "jllong@usgs.gov",
+          "imageHeight": 200,
+          "url": "https://www.sciencebase.gov/catalog/file/get/56bcd524e4b08d617f66ad1f?f=__disk__f3%2F09%2F71%2Ff3097144a6e8d4d7c050cbcfb9d640c390493822"
+        }
+      ]
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/56bcd681e4b08d617f66b1bb"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=56bcd681e4b08d617f66b1bb",
+          "rel": "related"
+        }
+      },
+      "id": "56bcd681e4b08d617f66b1bb",
+      "title": "Alien plant invasion in mixed-grass prairie: effects of vegetation type, stochiasticity, and anthropogenic disturbance in two park units",
+      "body": "<p>The ability of alien plant species to invade a region depends not only on attributes of the plant, but on characteristics of the habitat being invaded. Here, we examine characteristics that may influence the success of alien plant invasion in mixed-grass prairie at Theodore Roosevelt National Park, in western North Dakota, USA. The park consists of two geographically separate units with similar vegetation types and management history, which allowed us to examine the effects of native vegetation type, anthropogenic disturbance, and the separate park units on the invasion of native plant communities by alien plant species common to counties surrounding both park units. If matters of chance related to availability of propagules and transient establishment opportunities determine the success of invasion, park unit and anthropogenic disturbance should better explain the variation in alien plant frequency. If invasibility is more strongly related to biotic or physical characteristics of the native plant communities, models of alien plant occurrence should include vegetation type as an explanatory variable. We examined &gt;1300 transects across all vegetation types in both units of the park. Akaike's Information Criterion (AIC) indicated that the fully parameterized model, including the interaction among vegetation type, disturbance, and park unit, best described the distribution of both total number of alien plants per transect and frequency of alien plants on transects where they occurred. Although all vegetation types were invaded by alien plants, mesic communities had both greater numbers and higher frequencies of alien plants than did drier communities. A strong element of stochasticity, reflected in differences in frequencies of individual species between the two park units, suggests that prediction of risk of invasion will always involve uncertainty. In addition, despite well-documented associations between anthropogenic disturbance and alien plant invasion, five of the six most abundant alien species at Theodore Roosevelt National Park had distributions unrelated to disturbance. We recommend that vegetation type be explicitly taken into account when designing monitoring plans for alien species in natural areas.</p>",
+      "files": [
+        {
+          "size": 5204,
+          "dateUploaded": "2016-02-11T18:44:17.000Z",
+          "name": "source.xml",
+          "pathOnDisk": "__disk__47/2a/5a/472a5a3c94fa35baeec4eeaeef71727ea8c7ed41",
+          "contentType": "application/xml",
+          "uploadedBy": "jllong@usgs.gov",
+          "url": "https://www.sciencebase.gov/catalog/file/get/56bcd681e4b08d617f66b1bb?f=__disk__47%2F2a%2F5a%2F472a5a3c94fa35baeec4eeaeef71727ea8c7ed41"
+        },
+        {
+          "imageWidth": 144,
+          "size": 14354,
+          "useForPreview": true,
+          "dateUploaded": "2016-02-11T18:44:17.000Z",
+          "name": "23806_cover_sm.jpg",
+          "pathOnDisk": "__disk__b5/47/df/b547dfa155bc8499b9fc302dde278938b0c525b0",
+          "contentType": "image/jpeg",
+          "uploadedBy": "jllong@usgs.gov",
+          "imageHeight": 200,
+          "url": "https://www.sciencebase.gov/catalog/file/get/56bcd681e4b08d617f66b1bb?f=__disk__b5%2F47%2Fdf%2Fb547dfa155bc8499b9fc302dde278938b0c525b0"
+        }
+      ]
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/572a2ac9e4b0b13d391a1f6c"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=572a2ac9e4b0b13d391a1f6c",
+          "rel": "related"
+        }
+      },
+      "id": "572a2ac9e4b0b13d391a1f6c",
+      "title": "Habitat Type is Related to Nest Mass and Fledging Success of Arctic Warblers",
+      "body": "Relatively little is known about Arctic Warblers (Phylloscopus borealis) that breed in central Alaska. We monitored Arctic Warbler populations in two adjacent but distinct habitat types in central Alaska (high elevation, ?open shrub? and lower elevation, ?dense shrub?). We collected 95 nests over three breeding seasons to learn more about nest-building behavior, nest mass, composition, fledging success, and nest parasites. Females were the sole builders of ground nests, which were primarily comprised of moss, grass, and a lining of moose (Alces alces) hair. Dry weight of nests was ?20Â&nbsp;g, but differed up to ?3-fold within each habitat type each season. Nests from open shrub habitats were more massive and contained less moose hair lining than nests in dense shrub. Open shrub nests fledged more young during the most productive breeding season. We report the first record of the parasitic blowfly Protocalliphora tundrae in Arctic Warbler nests and for Alaska. Blowfly parasitism (55% of nests with hatchlings) was similar in both habitat types and did not correlate with fledging success, or nest mass. Nests with greater amounts of moss tended to have lower levels of blowfly infestation.; Abstract Relatively little is known about Arctic Warblers (Phylloscopus borealis) that breed in central Alaska. We monitored Arctic Warbler populations in two adjacent but distinct habitat types in central Alaska (high elevation, ?open shrub? and lower elevation, ?dense shrub?). We collected 95 nests over three breeding seasons to learn more about nest-building behavior, nest mass, composition, fledging success, and nest parasites. Females were the sole builders of ground nests, which were primarily comprised of moss, grass, and a lining of moose (Alces alces) hair. Dry weight of nests was ?20Â&nbsp;g, but differed up to ?3-fold within each habitat type each season. Nests from open shrub habitats were more massive and contained less moose hair lining than nests in dense shrub. Open shrub nests fledged more young during the most productive breeding season. We report the first record of the parasitic blowfly Protocalliphora tundrae in Arctic Warbler nests and for Alaska. Blowfly parasitism (55% of nests with hatchlings) was similar in both habitat types and did not correlate with fledging success, or nest mass. Nests with greater amounts of moss tended to have lower levels of blowfly infestation.",
+      "files": null
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/576355f5e4b07657d19a9bf2"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=576355f5e4b07657d19a9bf2",
+          "rel": "related"
+        }
+      },
+      "id": "576355f5e4b07657d19a9bf2",
+      "title": "Habitat Type is Related to Nest Mass and Fledging Success of Arctic Warblers",
+      "body": "Relatively little is known about Arctic Warblers (Phylloscopus borealis) that breed in central Alaska. We monitored Arctic Warbler populations in two adjacent but distinct habitat types in central Alaska (high elevation, ?open shrub? and lower elevation, ?dense shrub?). We collected 95 nests over three breeding seasons to learn more about nest-building behavior, nest mass, composition, fledging success, and nest parasites. Females were the sole builders of ground nests, which were primarily comprised of moss, grass, and a lining of moose (Alces alces) hair. Dry weight of nests was ?20Â&nbsp;g, but differed up to ?3-fold within each habitat type each season. Nests from open shrub habitats were more massive and contained less moose hair lining than nests in dense shrub. Open shrub nests fledged more young during the most productive breeding season. We report the first record of the parasitic blowfly Protocalliphora tundrae in Arctic Warbler nests and for Alaska. Blowfly parasitism (55% of nests with hatchlings) was similar in both habitat types and did not correlate with fledging success, or nest mass. Nests with greater amounts of moss tended to have lower levels of blowfly infestation.; Abstract Relatively little is known about Arctic Warblers (Phylloscopus borealis) that breed in central Alaska. We monitored Arctic Warbler populations in two adjacent but distinct habitat types in central Alaska (high elevation, ?open shrub? and lower elevation, ?dense shrub?). We collected 95 nests over three breeding seasons to learn more about nest-building behavior, nest mass, composition, fledging success, and nest parasites. Females were the sole builders of ground nests, which were primarily comprised of moss, grass, and a lining of moose (Alces alces) hair. Dry weight of nests was ?20Â&nbsp;g, but differed up to ?3-fold within each habitat type each season. Nests from open shrub habitats were more massive and contained less moose hair lining than nests in dense shrub. Open shrub nests fledged more young during the most productive breeding season. We report the first record of the parasitic blowfly Protocalliphora tundrae in Arctic Warbler nests and for Alaska. Blowfly parasitism (55% of nests with hatchlings) was similar in both habitat types and did not correlate with fledging success, or nest mass. Nests with greater amounts of moss tended to have lower levels of blowfly infestation."
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/5762cd34e4b07657d19a836d"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=5762cd34e4b07657d19a836d",
+          "rel": "related"
+        }
+      },
+      "id": "5762cd34e4b07657d19a836d",
+      "title": "Habitat Type is Related to Nest Mass and Fledging Success of Arctic Warblers",
+      "body": "Relatively little is known about Arctic Warblers (Phylloscopus borealis) that breed in central Alaska. We monitored Arctic Warbler populations in two adjacent but distinct habitat types in central Alaska (high elevation, ?open shrub? and lower elevation, ?dense shrub?). We collected 95 nests over three breeding seasons to learn more about nest-building behavior, nest mass, composition, fledging success, and nest parasites. Females were the sole builders of ground nests, which were primarily comprised of moss, grass, and a lining of moose (Alces alces) hair. Dry weight of nests was ?20Â&nbsp;g, but differed up to ?3-fold within each habitat type each season. Nests from open shrub habitats were more massive and contained less moose hair lining than nests in dense shrub. Open shrub nests fledged more young during the most productive breeding season. We report the first record of the parasitic blowfly Protocalliphora tundrae in Arctic Warbler nests and for Alaska. Blowfly parasitism (55% of nests with hatchlings) was similar in both habitat types and did not correlate with fledging success, or nest mass. Nests with greater amounts of moss tended to have lower levels of blowfly infestation.; Abstract Relatively little is known about Arctic Warblers (Phylloscopus borealis) that breed in central Alaska. We monitored Arctic Warbler populations in two adjacent but distinct habitat types in central Alaska (high elevation, ?open shrub? and lower elevation, ?dense shrub?). We collected 95 nests over three breeding seasons to learn more about nest-building behavior, nest mass, composition, fledging success, and nest parasites. Females were the sole builders of ground nests, which were primarily comprised of moss, grass, and a lining of moose (Alces alces) hair. Dry weight of nests was ?20Â&nbsp;g, but differed up to ?3-fold within each habitat type each season. Nests from open shrub habitats were more massive and contained less moose hair lining than nests in dense shrub. Open shrub nests fledged more young during the most productive breeding season. We report the first record of the parasitic blowfly Protocalliphora tundrae in Arctic Warbler nests and for Alaska. Blowfly parasitism (55% of nests with hatchlings) was similar in both habitat types and did not correlate with fledging success, or nest mass. Nests with greater amounts of moss tended to have lower levels of blowfly infestation."
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/570bbfd6e4b0ef3b7ca02f30"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=570bbfd6e4b0ef3b7ca02f30",
+          "rel": "related"
+        }
+      },
+      "id": "570bbfd6e4b0ef3b7ca02f30",
+      "title": "Habitat Type is Related to Nest Mass and Fledging Success of Arctic Warblers",
+      "body": "Relatively little is known about Arctic Warblers (Phylloscopus borealis) that breed in central Alaska. We monitored Arctic Warbler populations in two adjacent but distinct habitat types in central Alaska (high elevation, ?open shrub? and lower elevation, ?dense shrub?). We collected 95 nests over three breeding seasons to learn more about nest-building behavior, nest mass, composition, fledging success, and nest parasites. Females were the sole builders of ground nests, which were primarily comprised of moss, grass, and a lining of moose (Alces alces) hair. Dry weight of nests was ?20Â&nbsp;g, but differed up to ?3-fold within each habitat type each season. Nests from open shrub habitats were more massive and contained less moose hair lining than nests in dense shrub. Open shrub nests fledged more young during the most productive breeding season. We report the first record of the parasitic blowfly Protocalliphora tundrae in Arctic Warbler nests and for Alaska. Blowfly parasitism (55% of nests with hatchlings) was similar in both habitat types and did not correlate with fledging success, or nest mass. Nests with greater amounts of moss tended to have lower levels of blowfly infestation.; Abstract Relatively little is known about Arctic Warblers (Phylloscopus borealis) that breed in central Alaska. We monitored Arctic Warbler populations in two adjacent but distinct habitat types in central Alaska (high elevation, ?open shrub? and lower elevation, ?dense shrub?). We collected 95 nests over three breeding seasons to learn more about nest-building behavior, nest mass, composition, fledging success, and nest parasites. Females were the sole builders of ground nests, which were primarily comprised of moss, grass, and a lining of moose (Alces alces) hair. Dry weight of nests was ?20Â&nbsp;g, but differed up to ?3-fold within each habitat type each season. Nests from open shrub habitats were more massive and contained less moose hair lining than nests in dense shrub. Open shrub nests fledged more young during the most productive breeding season. We report the first record of the parasitic blowfly Protocalliphora tundrae in Arctic Warbler nests and for Alaska. Blowfly parasitism (55% of nests with hatchlings) was similar in both habitat types and did not correlate with fledging success, or nest mass. Nests with greater amounts of moss tended to have lower levels of blowfly infestation."
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/56dda074e4b015c306faddb8"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=56dda074e4b015c306faddb8",
+          "rel": "related"
+        }
+      },
+      "id": "56dda074e4b015c306faddb8",
+      "title": "Habitat Type is Related to Nest Mass and Fledging Success of Arctic Warblers",
+      "body": "Relatively little is known about Arctic Warblers (Phylloscopus borealis) that breed in central Alaska. We monitored Arctic Warbler populations in two adjacent but distinct habitat types in central Alaska (high elevation, ?open shrub? and lower elevation, ?dense shrub?). We collected 95 nests over three breeding seasons to learn more about nest-building behavior, nest mass, composition, fledging success, and nest parasites. Females were the sole builders of ground nests, which were primarily comprised of moss, grass, and a lining of moose (Alces alces) hair. Dry weight of nests was ?20Â g, but differed up to ?3-fold within each habitat type each season. Nests from open shrub habitats were more massive and contained less moose hair lining than nests in dense shrub. Open shrub nests fledged more young during the most productive breeding season. We report the first record of the parasitic blowfly Protocalliphora tundrae in Arctic Warbler nests and for Alaska. Blowfly parasitism (55% of nests with hatchlings) was similar in both habitat types and did not correlate with fledging success, or nest mass. Nests with greater amounts of moss tended to have lower levels of blowfly infestation.; Abstract Relatively little is known about Arctic Warblers (Phylloscopus borealis) that breed in central Alaska. We monitored Arctic Warbler populations in two adjacent but distinct habitat types in central Alaska (high elevation, ?open shrub? and lower elevation, ?dense shrub?). We collected 95 nests over three breeding seasons to learn more about nest-building behavior, nest mass, composition, fledging success, and nest parasites. Females were the sole builders of ground nests, which were primarily comprised of moss, grass, and a lining of moose (Alces alces) hair. Dry weight of nests was ?20Â g, but differed up to ?3-fold within each habitat type each season. Nests from open shrub habitats were more massive and contained less moose hair lining than nests in dense shrub. Open shrub nests fledged more young during the most productive breeding season. We report the first record of the parasitic blowfly Protocalliphora tundrae in Arctic Warbler nests and for Alaska. Blowfly parasitism (55% of nests with hatchlings) was similar in both habitat types and did not correlate with fledging success, or nest mass. Nests with greater amounts of moss tended to have lower levels of blowfly infestation."
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/52fe6b7ce4b0354fef6de42e"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=52fe6b7ce4b0354fef6de42e",
+          "rel": "related"
+        }
+      },
+      "id": "52fe6b7ce4b0354fef6de42e",
+      "title": "Crop pollination from native bees at risk from agricultural intensification",
+      "body": "<h2>Synopsis:</h2> \n<p>Researchers analyzed variation in crop pollination services provided by native, unmanaged, bee communities on organic and conventional farms situated along a gradient of isolation from natural habitat. Pollination services from native bees were significantly, positively related to the proportion of upland natural habitat in the vicinity of farm sites, but not to any other factor studied, including farm type, insecticide usage, field size and honeybee abundance. The scale of this relationship matched bee foraging ranges. Stability and predictability of pollination services also increased with increasing natural habitat area. This strong relationship between natural habitat area and pollination services was robust over space and time, allowing prediction of the area needed to produce a given level of pollination services by wild bees within the landscape. Crop pollination services provided by native bee communities in California strongly depended on the proportion of natural upland habitat within 1–2.5 km of the farm site, a spatial scale that accords well with maximal foraging distances for similar bee species. This predictive relationship between habitat area and pollination services could allow land-use planners to establish conservation targets in this landscape. Targets are commonly applied in planning networks of protected areas to conserve biodiversity.<br /> &nbsp;</p> \n<h2>Conclusions:</h2> Pollination services from native bees were significantly, positively related to the proportion of upland natural habitat in the vicinity of farm sites. \n<h2>Thresholds/Learnings:</h2> Crop pollination services provided by native bee communities in California strongly depended on the proportion of natural upland habitat within 1000–2500m of the farm site, a spatial scale that accords well with maximal foraging distances for similar bee species."
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/57a279ede4b006cb45553f86"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=57a279ede4b006cb45553f86",
+          "rel": "related"
+        }
+      },
+      "id": "57a279ede4b006cb45553f86",
+      "title": "GCPO LCC Ecological Assessment of Gulf Coast Estuarine Tidal Marsh [DRAFT 2]",
+      "body": "Draft 2 of the summary report for ecological assessment of estuarine tidal marsh systems along the GCPO LCC Gulf Coast subgeography.&nbsp; This includes an assessment of landscape endpoints identified by the GCPO Adaptation Science Management Team in the draft GCPO LCC Integrated Science Agenda.\n<br> \n<br> The estuarine tidal marsh priority system in the Gulf Coastal Plains and Ozarks LCC (GCPO LCC) &nbsp;\n<a href=\"http://api.ning.com/files/2zaTVXiHsQQp52wJb3mdPb8GOamb-9txWAxWdNdeB-cvArmNWFifu-kHE7h3Br61ZnH4zGSYwt9P*vLWiRg*TKZRAajjmE3F/DraftIntegratedScienceAgendaV4.pdf\"><u>Integrated Science Agenda</u></a> (ISA) includes general ecological systems of brackish/saltwater marsh and seagrass beds&nbsp;and was adopted as one of two initial ecological systems of focus for the Gulf Coast subgeography of the GCPO LCC (the other being beaches and dunes).&nbsp; The desired ecological state for Gulf Coast estuarine tidal marsh is a “stable marsh systems comprised of native vegetation and limited open water conditions occurring in large blocks with natural hydrology present” and was&nbsp;derived from the breadth of available expertise and resources in the GCPO LCC Adaptation Science Management Team Gulf Coast multi-taxa working group.&nbsp; As in the other ISA priority systems, desired ecological states are defined within general categories of landscape attributes (i.e., endpoints) related to habitat amount, configuration, and condition.&nbsp;In this&nbsp;rapid ecological assessment GCPO LCC geospatial science staff used the most current, comprehensive and consistent&nbsp;large-scale geospatial data available to assess a series of landscape endpoints (i.e.,&nbsp;ecological indicators) that reflect the&nbsp;desired ecological state of the estuarine tidal marsh system.&nbsp; Landscape endpoints include targets of&nbsp;large blocks of unbroken marsh (&gt;250 ac), connectivity (interdigitation)&nbsp;of marsh&nbsp;types, moderate amounts of edge within large&nbsp;marsh blocks, presence of barrier islands in riverine dominated systems,&nbsp;&gt;70% emergent vegetative cover, &lt;20% open water, 15-30% submergent vegetative cover,&nbsp;native&nbsp;marsh plant dominance,&nbsp;a natural salinity gradient,&nbsp;and adequate freshwater flow and tidal influence. The data layers in this report represent a summation of available large-scale data used to assess each estuarine tidal marsh landscape endpoint, with&nbsp;heavy reliance on data generated by the USGS. Marsh Type Delineation Project, NOAA Coastal Change Analysis Program,&nbsp;Florida Cooperative&nbsp;Land Cover, NOAA and state-level salinity and tidal data, USGS flow data, and USGS Gulf-wide SAV&nbsp;data in combination with Florida Dept. of Environmental Protection data on submerged vegetation.&nbsp; We also coalesce this data into a condition index&nbsp;score that indicates where on the landscape&nbsp;estuarine tidal marsh&nbsp;systems are at or near the desired ecological state (i.e., where we can&nbsp;find good estuarine marsh habitat).\n<br> &nbsp;",
+      "files": [
+        {
+          "originalMetadata": false,
+          "processed": false,
+          "useForPreview": false,
+          "size": 8091727,
+          "dateUploaded": "2016-08-03T22:55:53.000Z",
+          "name": "Draft2_Gulf_Coast_Tidal_Marsh_Assessment_8_03_16.pdf",
+          "pathOnDisk": "__disk__0f/88/66/0f8866dba4e9330160850ad6012ed2c69119958c",
+          "title": "GCPO Tidal Marsh Assessment Draft 2 (pdf)",
+          "contentType": "application/pdf",
+          "uploadedBy": "kristine@gri.msstate.edu",
+          "url": "https://www.sciencebase.gov/catalog/file/get/57a279ede4b006cb45553f86?f=__disk__0f%2F88%2F66%2F0f8866dba4e9330160850ad6012ed2c69119958c"
+        },
+        {
+          "originalMetadata": false,
+          "processed": false,
+          "useForPreview": false,
+          "size": 97691648,
+          "dateUploaded": "2016-08-03T23:03:28.000Z",
+          "name": "Draft2_Gulf_Coast_Tidal_Marsh_Assessment_8_03_16.doc",
+          "pathOnDisk": "__disk__e0/1f/79/e01f7928a76cc0583e3a47dfa6faded66b4781bb",
+          "title": "GCPO Tidal Marsh Assessment Draft 2 (doc)",
+          "contentType": "application/msword",
+          "uploadedBy": "kristine@gri.msstate.edu",
+          "url": "https://www.sciencebase.gov/catalog/file/get/57a279ede4b006cb45553f86?f=__disk__e0%2F1f%2F79%2Fe01f7928a76cc0583e3a47dfa6faded66b4781bb"
+        }
+      ]
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/53598193e4b0031b2f4a074a"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=53598193e4b0031b2f4a074a",
+          "rel": "related"
+        }
+      },
+      "id": "53598193e4b0031b2f4a074a",
+      "title": "Forecasting Potential Phragmites Coastal Invasion Corridors",
+      "body": "<h4>Description of Work</h4>\nU.S. Geological Survey (USGS) will use remote sensing data to establish a baseline understanding of current distributions of invasive wetland plants and then forecast potential invasion corridors. Alterations to the Great Lakes shoreline or water-level patterns associated with global climate change could have significant impacts on the extent and composition of coastal habitat. Low lake levels can expose fertile wetland bottomlands to invasive species such as common reed ( <em>Phragmites</em>).<br>\n&nbsp;\n<h4>Goals &amp; Objectives</h4>\n<strong>Goals:</strong>\n\n<ul>\n\t<li>Identify current <em>Phragmites</em> distribution in the Great Lakes coastal zone,</li>\n\t<li>detect potential areas vulnerable to invasion due to influences such as altered water levels, nutrient and sediment loading, and shoreline development, and</li>\n\t<li>communicate project results to researchers, managers, policy makers, and the general public to guide future management and restoration efforts throughout the Great Lakes basin.</li>\n</ul>\n<br>\n<strong>Objectives:</strong>\n\n<ul>\n\t<li>Use remote sensing to map the current extent of <em>Phragmites</em> in the Great Lakes coastal zone,</li>\n\t<li>assess areas vulnerable to the spread of <em>Phragmites</em> under predicted climate-change scenarios and environmental influences (e.g., nutrients, hydrology, shoreline development), and</li>\n\t<li>give presentations, write a USGS fact sheet, create a web-based decision-support tool, and begin work toward communicating project results to the public and decision makers verbally and in journal publications.</li>\n</ul>\n&nbsp;\n\n<h4>Relevance &amp; Impact</h4>\nThe basin-wide map of current <em>Phragmites</em> distribution that will be produced will be useful to natural resource managers and will provide a basis for basin-wide efforts to control&nbsp; <em>Phragmites</em>, especially in areas where preservation of native biodiversity is particularly important. As nothing like this currently exists, such a map will prove invaluable for controlling the spread of this invasive species. Wetlands with previously undiscovered stands of <em>Phragmites</em> will be identified, and restoration efforts can be directed at these areas. Predicting corridors for future invasion by assessing vulnerability of exposed bottomlands to expansion will allow managers to target and prioritize control efforts, especially in relation to current coastal wetland restoration efforts.<br>\n<br>\nThis project addresses mission, vision, and multiple priorities identified in the USGS Strategic Plan and the USGS – Great Lakes Science Center Strategic Plan. It is consistent with the U.S. Climate Change Science Program strategic goals, the research goals of multiple programs within USGS (i.e., Ecosystems, Invasive Species, Fisheries: Aquatic and Endangered Resources), and initiatives endorsed by the Great Lakes Regional Collaboration. The USGS – Great Lakes Science Center (USGS – GLSC) has the mission, staff, facilities, and equipment to lead the cutting-edge research involved in this basin-wide effort.<br>\n&nbsp;\n<h4>Approach</h4>\n<strong><em>Phragmites</em>&nbsp;Mapping</strong>&nbsp;– A map of the current <em>Phragmites</em> distribution along the U.S. Great Lakes coastal zone (10-km buffer inland from shore) will be generated and published as a web-based decision-support tool.<br>\n<br>\n1. Alaska Satellite Facility (ASF) will procure the 260 multi-temporal radar imagery scenes (dual-polarized ALOS PALSAR) necessary to map the U.S. Great Lakes shoreline and will georegister the scenes to within 1-2 pixels.<br>\n<br>\n2. Using the georectified scenes, Michigan Tech Research Institute (MTRI) will map current extent of <em>Phragmites</em> by basin using algorithms developed and tested for this purpose.<br>\n<br>\n3. Ground-truthing of the mapping effort will be performed by MTRI. Field crews will collect pre-selected GPS points and digital photos of <em>Phragmites</em> and other vegetation and will transmit these data to MTRI image analysts through a Google Earth field tracking system.<br>\n<br>\n4. Preliminary maps of each basin will be distributed via a web-based tool supported by USGS Center for Integrated Data Analytics (CIDA) under a separate GLRI project. Validation by MTRI of maps to 95% confidence using ground-truth data will begin in FY10 and will be finalized in FY11.<br>\n<br>\n<strong>Vulnerability Assessment (Predicting Corridors of Expansion)</strong>&nbsp;- To understand the large-scale factors influencing&nbsp; <em>Phragmites</em> distribution, GIS analyses and statistical methods will be used to relate current <em>Phragmites</em> extent to variables such as, but not limited to, slope and topography, nutrient loading to the coastal zone, proximity to urban and agricultural land-use types, shoreline development, and water depth. The major influencing factors will be used to develop a GIS modeling framework to identify areas vulnerable to invasion. Using these FY10 results, FY11 efforts will advance prediction of <em>Phragmites</em> expansion in the coastal zone given the water-level scenarios of current climate-change models.<br>\n<br>\n1. USGS -GLSC will obtain LIDAR non-bare earth topographic and bathymetric data as 1-m DEMs from NOAA Coastal Services Center and USACE Joint Airborne Lidar Bathymetry Technical Center of Expertise (JALBTCX). Other bathymetric data sources will be researched and acquired, if available, for the shoreline extent from Cleveland, OH to Port Huron, MI, where turbidity precluded collection of LIDAR data.<br>\n<br>\n2. The bathymetric data will be converted to slopes and water-depth contours for a 0.5 m, 1.0 m, and 1.5 m drop in water level or other relevant water-level scenarios determined by downscaled climate models. LIDAR data also will be analyzed for geomorphic obstructions (e.g., bluffs) to <em>Phragmites</em> expansion. Substrate data will be requested from USACE. A GIS data layer of land use will be generated from the publicly available MIRIS data set. Tributary nutrient-load data and nutrient data from the SPAtially Referenced Regressions On Watershed attributes (SPARROW) model will be acquired from USGS CIDA and the USGS Wisconsin Water Science Center, respectively. Water-level data will be obtained from the NOAA Great Lakes Environmental Research Laboratory website and converted to depth using the LIDAR bathymetric data.<br>\n<br>\n3. General linear modeling and regression analysis will be used to determine significant relationships, if any, between current&nbsp; <em>Phragmites</em> occurrence and the above environmental variables (slope, topography, nutrient and sediment loading, land use, shoreline development, water depth, water-level fluctuation).<br>\n<br>\n4. To identify areas vulnerable to invasion, we first will map potential wetland area for four water-level scenarios predicted by downscaled climate models or predetermined (i.e., current 2009 levels and a 0.5 m, 1.0 m, and 1.5 m drop in water level). The following two criteria will be used to identify potential wetland area: 1) being at an elevation where mean high water level is between 0.1 m and 2 m and 2) having a substrate other than bedrock. Vulnerable areas will be identified as regions within the potential wetland area with a slope appropriate for&nbsp; <em>Phragmites</em> growth (as identified in #3 above) and with a topographic corridor linking it to the current&nbsp; <em>Phragmites</em> population. Highly vulnerable areas will be identified where nutrients, shoreline development, or other significant variables suggest greater probability for <em>Phragmites</em> expansion.<br>\n<br>\n5. The vulnerability maps for each of the water-level scenarios will be published alongside the&nbsp; <em>Phragmites&nbsp;</em>map in the web-based tool. Users will be able to overlay water-level contours for each of the scenarios as well as sites identified as biodiversity protection areas by The Nature Conservancy and other organizations.<br>\n&nbsp;\n<h4>Key Findings</h4>\n1. Through a cooperative effort with Michigan Tech Research Institute (MTRI), a spatial analyst lab, we used satellite data (PALSAR) to create a basin-wide map of <em>Phragmites</em> in the Great Lakes. The mapping effort also was supported by GLRI funds from the USFWS. The basin-wide map of the US coastal zone shows variability in the distribution of&nbsp; <em>Phragmites</em>, with certain regions (e.g., western Lake Erie, southern Lake Huron, Green Bay of Lake Michigan) supporting extensive&nbsp; <em>Phragmites</em>. This mapping product represents mature invasive <em>Phragmites</em>&nbsp;stands that are 0.2 ha or larger. Map accuracy was determined using an extensive network of field validation points. The type of data and analysis methods used do not easily map the native <em>Phragmites</em> or sparse stands at the expansion front.<br>\n<br>\n2. Many climate models for the Great Lakes predict lower lake levels, which can expose fertile wetland bottomlands to invasive species such as <em>Phragmites</em>. Using LIDAR data that were collected as part of a NOAA GLRI project, we determined what bottomlands may be exposed under reduced lake-level scenarios and become potential corridors for <em>Phragmites</em> invasion. We performed a simple vulnerability analysis related to proximity to current <em>Phragmites</em> stands to assist managers with early detection and control.<br>\n<br>\n3. We have preliminary results from a more rigorous vulnerability analysis that involves compiling large-scale, GIS-based environmental drivers for the Great Lakes basin and relating them to current <em>Phragmites</em> distribution. This represents a new frontier in large-scale <em>Phragmites</em>&nbsp;ecology that has never before been performed. Preliminary results indicate that three primary variables (i.e., nitrogen concentration, proximity to agriculture, and population density) are associated with extensive invasive <em>Phragmites</em> stands. Using species distribution modeling, we are using key environmental variables and data on the mapped <em>Phragmites</em> to create a spatial habitat suitability index that indicates areas that are highly vulnerable to <em>Phragmites</em> invasion. This vulnerability map can be used by managers for early detection, monitoring, and control, especially in areas being restored under the GLRI.<br>\n<br>\n4. Scientists from the USGS Great Lakes Science Center worked with staff at the USGS Center for Integrated Data Analytics to make the mapping data available to the public using the GLRI GeoNetwork. The GeoNetwork is primarily a metadata catalog that describes the availability and structure of geospatial data sets produced by GLRI projects but also supports the graphical interpretation of these products through interactive maps that allow users to view and print depictions of available data at custom scales ( <a href=\"https://cida.usgs.gov/glri/geonetwork/srv/en/main.home\">https://cida.usgs.gov/glri/geonetwork/srv/en/main.home</a>). An online decision support tool is being developed to allow users to access the mapping and modeling data produced in this study.<br>\n&nbsp;\n<h4>Products</h4>\n<strong>Poster Presentations</strong><br>\nGalbraith, D., M. Carlson-Mazur, K. Kowalski, B. Huberty, K. Scarbrough, Z. Laubach, R. Powell, L. Jenkins, C. Brooks, and L. Bourgeau-Chavez. Nov. 2, 2011. <em>Phragmites</em> distribution maps in and near the Huron-Erie corridor. State of the Straight Conference 2011, Eastern Michigan University and University of Windsor, Ypsilanti, MI.<br>\n<br>\nGalbraith, D., M. Carlson-Mazur, and K. Kowalski. Nov. 2, 2011. Forecasting <em>Phragmites</em> invasion patterns and habitat suitability in the Huron-Erie corridor. State of the Straight Conference 2011, Eastern Michigan University and University of Windsor, Ypsilanti, MI.<br>\n<br>\n<strong>Fact Sheets</strong><br>\nUSGS Great Lakes Science Center. 2011. Invasive <em>Phragmites australis</em>: mapped and modeled distribution in the Great Lakes coastal zone. GLSC Fact Sheet 2011-4.<br>\n&nbsp;"
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/5627f3d1e4b0d158f5926a9e"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=5627f3d1e4b0d158f5926a9e",
+          "rel": "related"
+        }
+      },
+      "id": "5627f3d1e4b0d158f5926a9e",
+      "title": "Effectiveness Monitoring for FY07 and FY08 Habitat Treatments and Legacy Habitat Treatments",
+      "body": "Each year, habitat enhancements and vegetation treatments are applied across southwest Wyoming on federal and private lands. During FY07 and FY08 over 50 conservation enhancement projects were proposed through the WLCI and other government and nongovernmental organizations. The WLCI’s primary objectives associated with habitat enhancement projects are to ensure they are effective in meeting their intended goals and that changes (positive or negative) resulting from these activities are documented and evaluated to guide adaptive management. Although effectiveness monitoring has one focus on evaluating the effectiveness of specific treatments, past and present, it has an additional requirement that data are collected in such a way as to inform the process of how sites are selected for specific treatments (where, what, and why) and contribute to understanding broader science questions (fo [see Narratives for more information.]"
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/571695bae4b0ef3b7ca9958e"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=571695bae4b0ef3b7ca9958e",
+          "rel": "related"
+        }
+      },
+      "id": "571695bae4b0ef3b7ca9958e",
+      "title": "Effectiveness Monitoring for FY07 and FY08 Habitat Treatments and Legacy Habitat Treatments",
+      "body": "Each year, habitat enhancements and vegetation treatments are applied across southwest Wyoming on federal and private lands. During FY07 and FY08 over 50 conservation enhancement projects were proposed through the WLCI and other government and nongovernmental organizations. The WLCI’s primary objectives associated with habitat enhancement projects are to ensure they are effective in meeting their intended goals and that changes (positive or negative) resulting from these activities are documented and evaluated to guide adaptive management. Although effectiveness monitoring has one focus on evaluating the effectiveness of specific treatments, past and present, it has an additional requirement that data are collected in such a way as to inform the process of how sites are selected for specific treatments (where, what, and why) and contribute to understanding broader science questions (fo [see Narratives for more information.]"
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/514c2be8e4b0cf4196fef31a"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=514c2be8e4b0cf4196fef31a",
+          "rel": "related"
+        }
+      },
+      "id": "514c2be8e4b0cf4196fef31a",
+      "title": "Migrating birds’ use of stopover habitat in the southwestern United States",
+      "body": "In the arid Southwest, migratory birds are known to use riparian stopover habitats; we know less about how migrants use other habitat types during migratory stopover. Using radar data and satellite land-cover data, we determined the habitats with which birds are associated during migration stopover. Bird densities differed significantly by habitat type at all sites in at least one season. In parts of Arizona and New Mexico upland forest supported high densities of migrants, especially in fall. Developed habitat, in areas with little upland forest, also supported high densities of migrants. Scrub/shrub and grassland habitats supported low to intermediate densities, but because these habitat types dominate the Southwestern landscape, they may provide stopover habitat for larger numbers of migratory birds than previously recognized. These results are complicated by continuing challenges related to target identity (i.e., distinguishing among birds, arthropods and bats). Our results suggest that it is too simplistic to (1) consider the arid West as a largely inhospitable landscape in which there are only relatively small oases of habitat that provide the resources needed by all migrants, (2) think of western riparian and upland forests as supporting the majority of migrants in all cases, and (3) consider a particular habitat unimportant for stopover solely on the basis of low densities of migrants.",
+      "files": [
+        {
+          "size": 3216,
+          "dateUploaded": "2014-07-21T19:16:40.362Z",
+          "name": "metadata362295257673375346.xml",
+          "pathOnDisk": "__disk__41/01/87/410187951939ec84c32a2674535781d3b1a56a67",
+          "contentType": "application/mods+xml",
+          "uploadedBy": "allenj@usgs.gov",
+          "url": "https://www.sciencebase.gov/catalog/file/get/514c2be8e4b0cf4196fef31a?f=__disk__41%2F01%2F87%2F410187951939ec84c32a2674535781d3b1a56a67"
+        }
+      ]
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/542afba1e4b057766eed28eb"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=542afba1e4b057766eed28eb",
+          "rel": "related"
+        }
+      },
+      "id": "542afba1e4b057766eed28eb",
+      "title": "Assessing the Impact of Climate Change on Inland Fisheries",
+      "body": "Changes in the Earth’s climate are expected to significantly impact freshwater aquatic habitats in North America and around the world by changing water temperatures, water levels and streamflow. These changes will have an effect on inland fish species, and their associated fisheries, and consequently will impact recreational and subsistence fishers, human communities, and economies. Inland fish are especially vulnerable to climate change because they have limited habitat availability and they have a more direct link with terrestrial systems, human land use patterns, and human water use than fish in marine ecosystems (and human activities are already threatening and weakening inland fish in many areas). With a changing climate, some inland fish may become stressed, resulting in weaker immune systems and lower reproductive success, whereas other inland fish species may actually fare better and become more competitive. To date, little comprehensive research has been conducted to investigate the climate change effects on inland fisheries at a large scale. The objective of this project is to synthesize our understanding of how climate change may affect inland fisheries. Project researchers are actively (a) identifying the key data and knowledge gaps related to how climate change will affect inland fisheries and (b) examining the questions: “do current and future changes differ by region?” and “do these changes differ by species, habitat type, or other traits?”. To learn more about this project and our findings, please check out the sections below.",
+      "files": [
+        {
+          "imageWidth": 1499,
+          "originalMetadata": false,
+          "dateUploaded": "2015-12-14T17:32:37.000Z",
+          "title": "Smallmouth bubbles - Credit: Gretchen Hansen",
+          "imageHeight": 1124,
+          "url": "https://www.sciencebase.gov/catalog/file/get/542afba1e4b057766eed28eb?f=__disk__8b%2F3f%2F38%2F8b3f3837de1ead97d311d2d165ffb9ec41304b79",
+          "processed": false,
+          "size": 149858,
+          "useForPreview": true,
+          "name": "smallmouth_bubbles_Hansen 1499x1124.jpg",
+          "pathOnDisk": "__disk__8b/3f/38/8b3f3837de1ead97d311d2d165ffb9ec41304b79",
+          "contentType": "image/jpeg",
+          "uploadedBy": "hpadgett@usgs.gov"
+        },
+        {
+          "imageWidth": 1032,
+          "originalMetadata": false,
+          "dateUploaded": "2015-12-14T17:45:03.000Z",
+          "title": "Smallmouth bass - Credit: Gretchen Hansen",
+          "imageHeight": 774,
+          "url": "https://www.sciencebase.gov/catalog/file/get/542afba1e4b057766eed28eb?f=__disk__3a%2F9f%2Ffa%2F3a9ffacb4c83f4dee4b1b72cb620837d4107c762",
+          "processed": false,
+          "size": 127939,
+          "useForPreview": false,
+          "name": "SmallmouthBass_Credit-Gretchen Hansen 1032x774.jpg",
+          "pathOnDisk": "__disk__3a/9f/fa/3a9ffacb4c83f4dee4b1b72cb620837d4107c762",
+          "contentType": "image/jpeg",
+          "uploadedBy": "hpadgett@usgs.gov"
+        },
+        {
+          "imageWidth": 1499,
+          "originalMetadata": false,
+          "dateUploaded": "2015-12-14T17:48:07.000Z",
+          "title": "School of smallmouth bass - Credit: Gretchen Hansen",
+          "imageHeight": 1124,
+          "url": "https://www.sciencebase.gov/catalog/file/get/542afba1e4b057766eed28eb?f=__disk__cd%2Fb2%2F62%2Fcdb262f2edc62e9e7582d2ba0d1525c1c431349c",
+          "processed": false,
+          "size": 175138,
+          "useForPreview": false,
+          "name": "SMB_School_Hansen 1499x1124.jpg",
+          "pathOnDisk": "__disk__cd/b2/62/cdb262f2edc62e9e7582d2ba0d1525c1c431349c",
+          "contentType": "image/jpeg",
+          "uploadedBy": "hpadgett@usgs.gov"
+        },
+        {
+          "imageWidth": 1499,
+          "originalMetadata": false,
+          "dateUploaded": "2015-12-14T17:50:01.000Z",
+          "title": "School of smallmouth bass - Credit: Gretchen Hansen",
+          "imageHeight": 1124,
+          "url": "https://www.sciencebase.gov/catalog/file/get/542afba1e4b057766eed28eb?f=__disk__33%2F98%2Fe8%2F3398e882060256a3b866ea6d5869b681a8ca9dfa",
+          "processed": false,
+          "size": 237039,
+          "useForPreview": false,
+          "name": "SMB2_Hansen 1499x1124.jpg",
+          "pathOnDisk": "__disk__33/98/e8/3398e882060256a3b866ea6d5869b681a8ca9dfa",
+          "contentType": "image/jpeg",
+          "uploadedBy": "hpadgett@usgs.gov"
+        },
+        {
+          "imageWidth": 1187,
+          "originalMetadata": false,
+          "dateUploaded": "2015-12-14T17:55:47.000Z",
+          "title": "Angler at panfish tournament - Credit: Baker County Tourism",
+          "imageHeight": 890,
+          "url": "https://www.sciencebase.gov/catalog/file/get/542afba1e4b057766eed28eb?f=__disk__aa%2F6b%2F8b%2Faa6b8be97db05f6b1aca56baa5c8b6e96d0336e5",
+          "processed": false,
+          "size": 539287,
+          "useForPreview": false,
+          "name": "Angler_Panfish Tournament_Credit-Baker County Tourism 1187x890.jpg",
+          "pathOnDisk": "__disk__aa/6b/8b/aa6b8be97db05f6b1aca56baa5c8b6e96d0336e5",
+          "contentType": "image/jpeg",
+          "uploadedBy": "hpadgett@usgs.gov"
+        },
+        {
+          "imageWidth": 622,
+          "originalMetadata": false,
+          "dateUploaded": "2015-12-14T17:55:52.000Z",
+          "title": "Black bear and sockeye salmon - Credit: Evan Barrientos",
+          "imageHeight": 467,
+          "url": "https://www.sciencebase.gov/catalog/file/get/542afba1e4b057766eed28eb?f=__disk__aa%2Fc1%2Fbd%2Faac1bda5545d2465f1cca606d8492c315b15bb42",
+          "processed": false,
+          "size": 205686,
+          "useForPreview": false,
+          "name": "Black Bear&SockeyeSalmon_Credit-Evan Barrientos 622x467.jpg",
+          "pathOnDisk": "__disk__aa/c1/bd/aac1bda5545d2465f1cca606d8492c315b15bb42",
+          "contentType": "image/jpeg",
+          "uploadedBy": "hpadgett@usgs.gov"
+        },
+        {
+          "originalMetadata": false,
+          "processed": false,
+          "size": 188828,
+          "useForPreview": false,
+          "dateUploaded": "2016-02-11T17:28:34.000Z",
+          "name": "Copyright_BakerCountyTourism.pdf",
+          "pathOnDisk": "__disk__8c/87/2b/8c872ba61a3716da2e0c8858d07565ec18bc0698",
+          "title": "Photo Agreement Baker County Tourism",
+          "contentType": "application/pdf",
+          "uploadedBy": "kmalpeli@usgs.gov",
+          "url": "https://www.sciencebase.gov/catalog/file/get/542afba1e4b057766eed28eb?f=__disk__8c%2F87%2F2b%2F8c872ba61a3716da2e0c8858d07565ec18bc0698"
+        },
+        {
+          "originalMetadata": false,
+          "processed": false,
+          "size": 75440,
+          "useForPreview": false,
+          "dateUploaded": "2016-02-11T17:28:34.000Z",
+          "name": "Copyright_EvanBarrientos.pdf",
+          "pathOnDisk": "__disk__a8/8a/f0/a88af07a1bba1818945fac1c790e528598f958ef",
+          "title": "Photo Agreement Evan Barrientos",
+          "contentType": "application/pdf",
+          "uploadedBy": "kmalpeli@usgs.gov",
+          "url": "https://www.sciencebase.gov/catalog/file/get/542afba1e4b057766eed28eb?f=__disk__a8%2F8a%2Ff0%2Fa88af07a1bba1818945fac1c790e528598f958ef"
+        },
+        {
+          "originalMetadata": false,
+          "processed": false,
+          "size": 64924,
+          "useForPreview": false,
+          "dateUploaded": "2016-02-11T17:28:34.000Z",
+          "name": "Copyright_GretchenHansen.pdf",
+          "pathOnDisk": "__disk__97/d0/25/97d0257f0432abbb0fbd562d37d03ccb5f201c25",
+          "title": "Photo Agreement Gretchen Hansen",
+          "contentType": "application/pdf",
+          "uploadedBy": "kmalpeli@usgs.gov",
+          "url": "https://www.sciencebase.gov/catalog/file/get/542afba1e4b057766eed28eb?f=__disk__97%2Fd0%2F25%2F97d0257f0432abbb0fbd562d37d03ccb5f201c25"
+        }
+      ]
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/550311eae4b02e76d7565196"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=550311eae4b02e76d7565196",
+          "rel": "related"
+        }
+      },
+      "id": "550311eae4b02e76d7565196",
+      "title": "Diagnosing and Communicating the Effect of Climate Variability on Frequency of Coastal Inundation",
+      "body": "Increasing numbers of hazardous inundation events due to climate change is a serious threat to the culture, habitat, and infrastructure of the Hawaiian and U.S.-Affiliated Pacific Islands. The information currently available to stakeholders, however, is primarily confined to maximum or mean water level and does not include how often incursions are likely to occur. We propose to quantify the effect of local factors and Pacific climate variability on the frequency of inundation events in centers of population and infrastructure in Pacific island communities. We will produce seasonal outlooks that project the number of incursions above a given level at a particular site in 3-6 month windows. We choose seasonal outlooks, because inundation events tend to cluster seasonally based on coastline orientation, storm tracks, dominant swell direction, and tidal amplitude. These same principles will then be applied to quantify how often severe inundation seasons are likely to occur given longer term changes related to natural and anthropogenic climate change.",
+      "files": [
+        {
+          "imageWidth": 640,
+          "originalMetadata": false,
+          "dateUploaded": "2016-05-13T16:14:49.000Z",
+          "title": "American Samoa Landscape and Forest - Public Domain (CC0)",
+          "imageHeight": 480,
+          "url": "https://www.sciencebase.gov/catalog/file/get/550311eae4b02e76d7565196?f=__disk__39%2F2d%2F4e%2F392d4e33ae620fa43dfec531a8e98d72b5afee14",
+          "processed": false,
+          "size": 191888,
+          "useForPreview": true,
+          "name": "american-samoa-landscape-scenic-tropics-forest (public domain CC0).jpg",
+          "pathOnDisk": "__disk__39/2d/4e/392d4e33ae620fa43dfec531a8e98d72b5afee14",
+          "contentType": "image/jpeg",
+          "uploadedBy": "hpadgett@usgs.gov"
+        }
+      ]
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/55195ee5e4b0323842782fd0"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=55195ee5e4b0323842782fd0",
+          "rel": "related"
+        }
+      },
+      "id": "55195ee5e4b0323842782fd0",
+      "title": "Forecasting Changes in Sagebrush Distribution and Abundance under Climate Change: Integration of Spatial, Temporal, and Mechanistic Models",
+      "body": "The future of sage grouse depends on the future of sagebrush, we have limited ability to anticipate impacts of climate change on sagebrush populations. Current efforts to forecast sagebrush habitat typically rely on species distribution models (SDMs), which suffer from a variety of well-known weaknesses. However, by integrating SDMs with complementary research approaches, such as historical data analysis and mechanistic models, we can provide increased confidence in projections of habitat change. Our goal is to forecast the effect of climate change on the distribution and abundance of big sagebrush in order to inform conservation planning, and sage grouse management in particular, across the Intermountain West. The novelty of our work will be the synthesis of models based on spatial, temporal, and mechanistic relationships between climate and sagebrush cover. The project will culminate in a working group meeting bringing together land managers and researchers to draft management recommendations. We will take advantage of mechanisms already in place to efficiently disseminate this report to management agencies.",
+      "files": [
+        {
+          "originalMetadata": false,
+          "processed": false,
+          "size": 48043,
+          "useForPreview": false,
+          "dateUploaded": "2016-07-08T19:43:15.000Z",
+          "name": "Copyright_PeterAdler.pdf",
+          "pathOnDisk": "__disk__f7/2f/d3/f72fd34f3178f27da7f35ae83a6c1c6d9c210083",
+          "title": "Copyright_Adler",
+          "contentType": "application/pdf",
+          "uploadedBy": "kmalpeli@usgs.gov",
+          "url": "https://www.sciencebase.gov/catalog/file/get/55195ee5e4b0323842782fd0?f=__disk__f7%2F2f%2Fd3%2Ff72fd34f3178f27da7f35ae83a6c1c6d9c210083"
+        },
+        {
+          "imageWidth": 974,
+          "originalMetadata": false,
+          "dateUploaded": "2016-07-08T19:43:19.000Z",
+          "title": "Sagebrush - Credit: Peter Adler",
+          "imageHeight": 799,
+          "url": "https://www.sciencebase.gov/catalog/file/get/55195ee5e4b0323842782fd0?f=__disk__b5%2Fc6%2F78%2Fb5c678000ac813c6fcbff500442abf61e22ce14c",
+          "processed": false,
+          "size": 413509,
+          "useForPreview": true,
+          "name": "NC-2015-1_Sagebrush_PeterAdler.jpg",
+          "pathOnDisk": "__disk__b5/c6/78/b5c678000ac813c6fcbff500442abf61e22ce14c",
+          "contentType": "image/jpeg",
+          "uploadedBy": "kmalpeli@usgs.gov"
+        }
+      ]
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/54cc4447e4b01fabb3001df7"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=54cc4447e4b01fabb3001df7",
+          "rel": "related"
+        }
+      },
+      "id": "54cc4447e4b01fabb3001df7",
+      "title": "A landscape-based assessment of climate change vulnerability for native Hawaiian plants.",
+      "body": "In Hawaiʽi and elsewhere, research efforts have focused on two main approaches to determine the potential impacts of climate change on individual species: estimating species vulnerabilities and projecting responses of species to expected changes. We integrated these approaches by defining vulnerability as the inability of species to exhibit any of the responses necessary for persistence under climate change (i.e., tolerate projected changes, endure in microrefugia, or migrate to new climate-compatible areas, but excluding evolutionary adaptation). To operationalize this response-based definition of species vulnerability within a landscape-based analysis, we used current and future climate envelopes for each species to define zones across the landscape: the toleration zone; the microrefugia zone; and the migration zone. Using these response zones we calculated a diverse set of factors related to habitat area, quality, and distribution for each species, including the amount of habitat protection and fragmentation and areas projected to be lost to sea-level rise. We then calculated the probabilities of each species exhibiting these responses using a Bayesian network model and determined the overall climate change vulnerability of each species by using a vulnerability index. As a first iteration of a response-based species vulnerability assessment (VA), our landscape-based analysis effectively integrates species-distribution models into a Bayesian network-based VA that can be updated with improved models and data for more refined analyses in the future. Our results show that the species most vulnerable to climate change also tend to be species of conservation concern due to non-climatic threats (e.g., competition and predation from invasive species, land-use change). Also, many of Hawaiʽi’s taxa that are most vulnerable to climate change share characteristics with species that in the past were found to be at risk of extinction due to non-climatic threats (e.g., archipelago endemism, single-island endemism). Of particular concern are the numerous species that have no compatible-climate areas remaining by the year 2100. Species primarily associated with dry forests have higher vulnerability scores than species from any other habitat type. When examined at taxonomic levels above species, low vulnerabilities are concentrated in families and genera of generalists (e.g., ferns or sedges) and typically associated with mid-elevation wet habitats. Our results replicate findings from other regions that link higher species vulnerability with decreasing range size. This species VA is possibly the largest in scope ever conducted in the United States with over 1000 species considered, 319 of which are listed as endangered or threatened under the U.S. Endangered Species Act, filling a critical knowledge gap for resource managers in the region. The information in this assessment can help prioritize species for special conservation actions, guide the management of conservation areas, inform the selection of research and monitoring priorities, and support adaptive management planning and implementation.",
+      "files": [
+        {
+          "originalMetadata": false,
+          "processed": false,
+          "useForPreview": false,
+          "size": 9253469,
+          "dateUploaded": "2015-01-31T02:59:28.000Z",
+          "name": "Fortini_plant_vulnerability_assessment.pdf",
+          "pathOnDisk": "__disk__91/c4/f1/91c4f16f65b9f43c9e5a73eaa889ba1d29872bdb",
+          "title": "Final report",
+          "contentType": "application/pdf",
+          "uploadedBy": "patrick.grady@piccc.net",
+          "url": "https://www.sciencebase.gov/catalog/file/get/54cc4447e4b01fabb3001df7?f=__disk__91%2Fc4%2Ff1%2F91c4f16f65b9f43c9e5a73eaa889ba1d29872bdb"
+        }
+      ]
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/549981f4e4b08b255be64e6a"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=549981f4e4b08b255be64e6a",
+          "rel": "related"
+        }
+      },
+      "id": "549981f4e4b08b255be64e6a",
+      "title": "Multistate Aquatic Resources Information System (MARIS) published 20141222 - Texas fish sampling records 1987-2013",
+      "body": "Data were collected by the River Studies Program, Texas Parks and Wildlife Department. River Studies is an interdisciplinary river and stream assessment program. Its primary goal is to assure sufficient quantity and quality of water to maintain the natural biodiversity of aquatic ecosystems and their associated wetlands and riparian lands. The program staff works to characterize aquatic ecosystems, evaluate impacts to those systems, and determine water quantity and quality needs to address policy and regulatory issues. Results from long-term projects provide data from large geographic areas to address broad-scale policy and regulatory issues. Aquatic biological samples (fish, mussels, and benthic macroinvertebrates) are collected from Texas rivers, streams, springs, lakes and reservoirs to determine the health of the aquatic community, document distributions and abundances, and relate biological responses to environmental conditions. Data from these surveys can be categorized based on the type of sampling conducted and the scale of habitat measurements. 1. Baseline sampling documents the relative abundance of species in a given reach using a standardized protocol for sampling duration and habitat measurements; samples from each effort (i.e. each seine haul) are processed separately. 2. HSI Samples. Fish samples are also collected to support calculation of Habitat Suitability Indices for use in instream flow modeling; these are typically done using a stratified random approach to determine locations of sample events across the range of microhabitats available within a reach of stream. Samples are taken at multiple levels of base flows to ensure robust datasets. HSI data will be available in future MARIS updates.3. Bioassessment sampling is performed similar to baseline sampling but includes reach scale habitat information. Samples are typically not processed separately and generally consist of collections conducted in the 80s, 90s, and early 2000s or in regional scale projects such as minimally impacted surveys for Index of Biotic Integrity (IBI) development, National River and Stream Assessment (NRSA), and Regional Environmental Monitoring and Assessment Program (REMAP). Data were formatted to MARIS standards. MARIS is an internet-based information sharing network that allows multiple states to provide a common set of variables via a single web interface. MARIS is not a “dataset” but rather links specific content of multiple states’ datasets. MARIS does not capture all of the information from a state’s aquatic dataset – only a subset of data collected as part of aquatic species sampling surveys. The MARIS structure was developed by a consortium of state fish and wildlife agencies and implemented through contracts with various universities. Federal agency partners have provided the core funding for developing and implementing MARIS as well as broad guidance on the content of the system.In the 12-22-2014 version of this dataset, the water_body_name field was corrected for all Texas locations. The 07-21-2014 version of this dataset had the basin names inserted into this field in error.",
+      "files": [
+        {
+          "originalMetadata": false,
+          "processed": false,
+          "useForPreview": false,
+          "size": 817741,
+          "dateUploaded": "2014-12-23T15:02:27.000Z",
+          "name": "MARIS_STATE_TX.zip",
+          "pathOnDisk": "__disk__91/4a/6a/914a6a02afbeadf241835e32c91d3f5bcece3fbe",
+          "contentType": "application/zip",
+          "uploadedBy": "jasmith@usgs.gov",
+          "url": "https://www.sciencebase.gov/catalog/file/get/549981f4e4b08b255be64e6a?f=__disk__91%2F4a%2F6a%2F914a6a02afbeadf241835e32c91d3f5bcece3fbe"
+        },
+        {
+          "originalMetadata": true,
+          "processed": false,
+          "useForPreview": false,
+          "size": 95046,
+          "dateUploaded": "2014-12-31T16:56:42.000Z",
+          "name": "MARIS_state_TX_20141222.xml",
+          "pathOnDisk": "__disk__13/d1/90/13d1903170ac7fce290919c525bc681846605b26",
+          "contentType": "application/fgdc+xml",
+          "uploadedBy": "jasmith@usgs.gov",
+          "url": "https://www.sciencebase.gov/catalog/file/get/549981f4e4b08b255be64e6a?f=__disk__13%2Fd1%2F90%2F13d1903170ac7fce290919c525bc681846605b26"
+        }
+      ]
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/5006eb3ee4b0abf7ce733f5a"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=5006eb3ee4b0abf7ce733f5a",
+          "rel": "related"
+        }
+      },
+      "id": "5006eb3ee4b0abf7ce733f5a",
+      "title": "Sagebrush Ecosystems in a Changing Climate",
+      "body": "<p>Climate responses of sagebrush are needed to inform land managers of the stability and restoration of sagebrush ecosystems, which are an important but threatened&nbsp;habitat type. We evaluated climate responses of sagebrush using two approaches: (1) experimental manipulations of temperature and precipitation for natural plants in the field, and (2)&nbsp;assessment of how climate adaptation and weather have affected sagebrush seeding efforts on nearly 25 large-scale sagebrush seeding projects done over the past several decades. Experimental warming increased growth of sagebrush in high-elevation meadows in the Teton Mountains, but had marginal or no effect&nbsp;at lower elevations sites (near Twin Falls and Boise, Idaho, respectively). Increased precipitation enhanced sagebrush abundance, along with&nbsp;flowering and stem growth, particularly&nbsp;when added in winter on deep soils. In the post-fire seeding study, we found sagebrush abundances to be highly variable across different seeding projects, and the variation was partly related to the climate of seeding and seed-source sites&nbsp;and weather. Sagebrush seeds typically traveled hundreds of kilometers and nearly&nbsp;1000 m downhill from seed source/origins to seeding sites, from sites with colder minimum temperatures than the seeding sites. Big sagebrush is comprised of subspecies that differ in their climate adaptation, and many seeding projects received a subspecies that differed from the native type requested by&nbsp;the land managers. These climate transfers appeared important to the success of seedings: successful seedings imported seeds from sites having the same minimum temperatures. In failed &nbsp;seedings, seeds originated from relatively colder sites and, moreover, years with relatively warm minimum temperatures prevailed following planting. These results suggest minimum &nbsp;temperature and winter precipitation responses are important factors in the climate adaptation and ecology of this desert shrub, and their consideration in climate vulnerability analyses and selection of seed sources is likely to improve land planning and restoration.&nbsp;</p>",
+      "files": []
+    }
+  ]
+}

@@ -1,0 +1,515 @@
+{
+  "total": 619416,
+  "took": "821ms",
+  "selflink": {
+    "rel": "self",
+    "url": "https://www.sciencebase.gov/catalog/items?q=water&format=json&fields=files%2Ctitle%2Cbody&max=20"
+  },
+  "nextlink": {
+    "rel": "next",
+    "url": "https://www.sciencebase.gov/catalog/items?q=water&format=json&fields=files%2Ctitle%2Cbody&max=20&offset=20"
+  },
+  "items": [
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/505bc673e4b08c986b32bf81"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=505bc673e4b08c986b32bf81",
+          "rel": "related"
+        }
+      },
+      "id": "505bc673e4b08c986b32bf81",
+      "title": "Water Resources Data, New Jersey, Water Year 1990. Volume 2. Ground-Water Data",
+      "body": "Water Resources data for the 1990 water year for New Jersey consists of records of stage, discharge, and water quality of streams; stage, contents, and water quality of lakes and reservoirs; and water levels and water quality of ground water. This volume of the report contains ground water levels for 218 observation wells and water-quality data for 176 wells. These data represent that part of the National Water Data System operated by the U.S. Geological Survey and cooperating State and Federal agencies in New Jersey.",
+      "files": [
+        {
+          "size": 2423,
+          "dateUploaded": "2014-07-21T20:44:53.204Z",
+          "name": "metadata6362342718798264101.xml",
+          "pathOnDisk": "__disk__6a/67/95/6a6795186802b993c7d0d796b6b60a146dde7616",
+          "contentType": "application/mods+xml",
+          "url": "https://www.sciencebase.gov/catalog/file/get/505bc673e4b08c986b32bf81?f=__disk__6a%2F67%2F95%2F6a6795186802b993c7d0d796b6b60a146dde7616"
+        }
+      ]
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/4f4e4a62e4b07f02db6369dc"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=4f4e4a62e4b07f02db6369dc",
+          "rel": "related"
+        }
+      },
+      "id": "4f4e4a62e4b07f02db6369dc",
+      "title": "Reconnaissance of the water resources of Beaver County, Oklahoma",
+      "body": "Ground water is the major source of water supply in Beaver County. Because of the rapidly increasing demand for the limited supply of water for irrigation, additional geologic and hydrologic data are needed for management of ground-water resources. This report presents general information on the availability of ground water, on the chemical quality of water, and on streamflow. The chemical quality of water generally is poorer than that of water elsewhere in the Oklahoma Panhandle, and the ability to obtain good quality water may become increasingly difficult as the water resources are developed.\r\nFurther studies are needed to determine the annual change in water levels, the rate of water-level decline in heavily pumped areas, the volume of water stored in the ground-water reservoir, and the quantity of water that may be withdrawn safely in a given area.",
+      "files": [
+        {
+          "size": 2835,
+          "dateUploaded": "2014-07-21T19:53:21.443Z",
+          "name": "metadata5800351497198410030.xml",
+          "pathOnDisk": "__disk__bb/cd/3f/bbcd3ffca1d10c56343054cff9e28671eda84d48",
+          "contentType": "application/mods+xml",
+          "url": "https://www.sciencebase.gov/catalog/file/get/4f4e4a62e4b07f02db6369dc?f=__disk__bb%2Fcd%2F3f%2Fbbcd3ffca1d10c56343054cff9e28671eda84d48"
+        }
+      ]
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/4f4e4a0de4b07f02db5fd2c3"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=4f4e4a0de4b07f02db5fd2c3",
+          "rel": "related"
+        }
+      },
+      "id": "4f4e4a0de4b07f02db5fd2c3",
+      "title": "Water Resources Data - Texas, Water Year 2003, Volume 6. Ground Water",
+      "body": "Water-resources data for the 2003 water year for Texas consists of records of stage, discharge, and water quality of streams; stage and contents in lakes and reservoirs; and water levels and water quality in wells. Volume 6 contains water levels for 880 ground-water observation wells and water-quality data for 158 monitoring wells. These data represent that part of the National Water Data System operated by the U.S. Geological Survey and cooperating Federal, State, and local agencies in Texas.",
+      "files": [
+        {
+          "size": 1989,
+          "dateUploaded": "2016-08-31T10:30:20.483Z",
+          "name": "metadata4572864031142624178.xml",
+          "pathOnDisk": "__disk__02/78/c7/0278c70e38d6a89cf411487f832610dd226ed910",
+          "contentType": "application/mods+xml",
+          "url": "https://www.sciencebase.gov/catalog/file/get/4f4e4a0de4b07f02db5fd2c3?f=__disk__02%2F78%2Fc7%2F0278c70e38d6a89cf411487f832610dd226ed910"
+        }
+      ]
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/504216b9e4b04b508bfd337d"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=504216b9e4b04b508bfd337d",
+          "rel": "related"
+        }
+      },
+      "id": "504216b9e4b04b508bfd337d",
+      "title": "Environmental Tracers of Surface-Water / Ground-Water Exchanges",
+      "body": "<p>Objectives are quantitative scientific examination of hydrologic processes in the near-stream environment to determine spatial and temporal patterns of stream exchanges with shallow ground, for the purpose of improved understanding of streambed exchanges and resulting impacts on water resources and stream ecology.</p>",
+      "files": [
+        {
+          "size": 114005,
+          "dateUploaded": "2013-03-16T18:07:57.000Z",
+          "name": "Environmental Tracers of Surface-Water - Ground-Water Interactions (Constantz:Stonestrom).xml",
+          "processToken": "1366297421582",
+          "pathOnDisk": "__disk__38/aa/bc/38aabc1a1490a16a199e344f9dbcb8c6606dda19",
+          "contentType": "application/xml",
+          "url": "https://www.sciencebase.gov/catalog/file/get/504216b9e4b04b508bfd337d?f=__disk__38%2Faa%2Fbc%2F38aabc1a1490a16a199e344f9dbcb8c6606dda19"
+        }
+      ]
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/4f4e4a0de4b07f02db5fd10e"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=4f4e4a0de4b07f02db5fd10e",
+          "rel": "related"
+        }
+      },
+      "id": "4f4e4a0de4b07f02db5fd10e",
+      "title": "Water Resources Data for California, Water Year 1987. Volume 5. Ground-water Data for California",
+      "body": "Water resources data for the 1987 water year for California consist of records of stage, discharge, and water quality of streams; stage and contents in lakes and reservoirs; and water levels and water quality in wells. Volume 5 contains water levels for 786 observation wells and water-quality data for 168 observation wells. These data represent that part of the National Water Data System operated by the U.S. Geological Survey and cooperating State and Federal agencies in California.",
+      "files": [
+        {
+          "size": 2474,
+          "dateUploaded": "2014-07-21T20:43:17.395Z",
+          "name": "metadata4749919336718600215.xml",
+          "pathOnDisk": "__disk__29/b1/7b/29b17b806c7b7aa260eb0095a22c1afc3891f130",
+          "contentType": "application/mods+xml",
+          "url": "https://www.sciencebase.gov/catalog/file/get/4f4e4a0de4b07f02db5fd10e?f=__disk__29%2Fb1%2F7b%2F29b17b806c7b7aa260eb0095a22c1afc3891f130"
+        }
+      ]
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/4f4e4a0be4b07f02db5fc018"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=4f4e4a0be4b07f02db5fc018",
+          "rel": "related"
+        }
+      },
+      "id": "4f4e4a0be4b07f02db5fc018",
+      "title": "Water Resources Data, California, Water Year 1991. Volume 5. Ground-Water Data",
+      "body": "Water resources data for the 1991 water year for California consist of records of stage, discharge, and water quality of streams; stage and contents in lakes and reservoirs; and water levels and water quality in wells. Volume 5 contains water levels for 1,069 observation wells and water-quality data for 276 monitoring wells and 2 springs. These data represent that part of the National Water Data System opera?ted by the U.S. Geological Survey and cooperating State and Federal agencies in California.",
+      "files": [
+        {
+          "size": 2473,
+          "dateUploaded": "2014-07-21T20:44:06.313Z",
+          "name": "metadata2158397285973200268.xml",
+          "pathOnDisk": "__disk__49/a2/83/49a283840f150f223e8abc0fdde5ac79766001a1",
+          "contentType": "application/mods+xml",
+          "url": "https://www.sciencebase.gov/catalog/file/get/4f4e4a0be4b07f02db5fc018?f=__disk__49%2Fa2%2F83%2F49a283840f150f223e8abc0fdde5ac79766001a1"
+        }
+      ]
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/4f4e4a0de4b07f02db5fd129"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=4f4e4a0de4b07f02db5fd129",
+          "rel": "related"
+        }
+      },
+      "id": "4f4e4a0de4b07f02db5fd129",
+      "title": "Water Resources Data for California, Water Year 1988. Volume 5. Ground-Water Data for California",
+      "body": "Water resources data for the 1988 water year for California consist of records of stage, discharge, and water quality of streams; stage and contents in lakes and reservoirs; and water levels and water-quality in wells. Volume 5 contains water levels for 980 observation wells and water-quality data for 239 observation monitoring wells. These data represent that part of the National water Data System operated by the U.S. Geological Survey and cooperating State and Federal agencies in California.",
+      "files": [
+        {
+          "size": 2523,
+          "dateUploaded": "2014-07-21T20:43:17.925Z",
+          "name": "metadata2496521848635670388.xml",
+          "pathOnDisk": "__disk__f5/4e/4b/f54e4b5f20a98f0695217843fd722ebfae147822",
+          "contentType": "application/mods+xml",
+          "url": "https://www.sciencebase.gov/catalog/file/get/4f4e4a0de4b07f02db5fd129?f=__disk__f5%2F4e%2F4b%2Ff54e4b5f20a98f0695217843fd722ebfae147822"
+        }
+      ]
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/4f4e4a0be4b07f02db5fc1ab"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=4f4e4a0be4b07f02db5fc1ab",
+          "rel": "related"
+        }
+      },
+      "id": "4f4e4a0be4b07f02db5fc1ab",
+      "title": "Water Resources Data, California, Water Year 1989. Volume 5. Ground-Water Data",
+      "body": "Water resources data for the 1989 water year for California consist of records of stage, discharge, and water quality of streams; stage and contents in lakes and reservoirs; and water levels and water quality in weils. Volume 5 contains water levels for 1,037 observation wells and water-quality data for 254 monitoring wells. These data represent that part of the National Water Data System operated by the U.S. Geological Survey and cooperatine State and Federal agencies in California.",
+      "files": [
+        {
+          "size": 2508,
+          "dateUploaded": "2014-07-21T20:44:05.518Z",
+          "name": "metadata1784087183254202893.xml",
+          "pathOnDisk": "__disk__11/a1/f7/11a1f7e33bfd94434336871e21952644f83ab6d3",
+          "contentType": "application/mods+xml",
+          "url": "https://www.sciencebase.gov/catalog/file/get/4f4e4a0be4b07f02db5fc1ab?f=__disk__11%2Fa1%2Ff7%2F11a1f7e33bfd94434336871e21952644f83ab6d3"
+        }
+      ]
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/4f4e4aabe4b07f02db669b90"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=4f4e4aabe4b07f02db669b90",
+          "rel": "related"
+        }
+      },
+      "id": "4f4e4aabe4b07f02db669b90",
+      "title": "Description of the ground-water flow system in the Portland Basin, Oregon and Washington",
+      "body": "An increasing dependence on ground-water resources in the Portland Basin has made it necessary for State and local governments to evaluate the capability of the ground-water system to meet present and future demands for water. This report describes the regional ground-water system and provides a conceptualization of the aquifer system. Aquifer geometry, recharge, ground-water flow directions, ground-water/surface water relations, water use, and water-level changes with time are presented.",
+      "files": [
+        {
+          "size": 2799,
+          "dateUploaded": "2014-07-21T17:56:23.864Z",
+          "name": "metadata1911864673722126798.xml",
+          "pathOnDisk": "__disk__7a/4b/91/7a4b91e9332b03243a5a3bd181354afc3c4512fe",
+          "contentType": "application/mods+xml",
+          "url": "https://www.sciencebase.gov/catalog/file/get/4f4e4aabe4b07f02db669b90?f=__disk__7a%2F4b%2F91%2F7a4b91e9332b03243a5a3bd181354afc3c4512fe"
+        }
+      ]
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/4f4e4a0ce4b07f02db5fc7a2"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=4f4e4a0ce4b07f02db5fc7a2",
+          "rel": "related"
+        }
+      },
+      "id": "4f4e4a0ce4b07f02db5fc7a2",
+      "title": "Water Resources Data - Texas Water Year 2000, Volume 6. Ground Water",
+      "body": "Water-resources data for the 2000 water year for Texas consists of records of stage, discharge, and water quality of streams; stage and contents in lakes and reservoirs; and water levels and water quality in wells. Volume 6 contains water levels for 898 observation wells and 145 water-quality data for monitoring wells. These data represent that part of the National Water Data System operated by the U.S. Geological Survey and cooperating Federal, State, and local agencies in Texas.",
+      "files": [
+        {
+          "size": 1973,
+          "dateUploaded": "2016-08-31T10:30:20.102Z",
+          "name": "metadata4537001227194523914.xml",
+          "pathOnDisk": "__disk__fd/b0/bc/fdb0bc57176a3eaa9514684310df070c4442a21f",
+          "contentType": "application/mods+xml",
+          "url": "https://www.sciencebase.gov/catalog/file/get/4f4e4a0ce4b07f02db5fc7a2?f=__disk__fd%2Fb0%2Fbc%2Ffdb0bc57176a3eaa9514684310df070c4442a21f"
+        }
+      ]
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/4f4e4a09e4b07f02db5fb04e"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=4f4e4a09e4b07f02db5fb04e",
+          "rel": "related"
+        }
+      },
+      "id": "4f4e4a09e4b07f02db5fb04e",
+      "title": "Water Resources Data - Texas Water Year 1999, Volume 6. Ground Water",
+      "body": "Water-resources data for the 1999 water year for Texas consists of records of stage, discharge, and water quality of streams; stage and contents in lakes and reservoirs; and water levels and water quality in wells. Volume 6 contains water levels for 759 observation wells and 146 water-quality data for monitoring wells. These data represent that part of the National Water Data System operated by the U.S. Geological Survey and cooperating Federal, State, and local agencies in Texas.",
+      "files": [
+        {
+          "size": 2003,
+          "dateUploaded": "2016-08-31T10:30:19.657Z",
+          "name": "metadata2348800802225068622.xml",
+          "pathOnDisk": "__disk__6a/3e/19/6a3e190755de92992f446ad08c5c10d0bda19df7",
+          "contentType": "application/mods+xml",
+          "url": "https://www.sciencebase.gov/catalog/file/get/4f4e4a09e4b07f02db5fb04e?f=__disk__6a%2F3e%2F19%2F6a3e190755de92992f446ad08c5c10d0bda19df7"
+        }
+      ]
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/4f4e4a0de4b07f02db5fd120"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=4f4e4a0de4b07f02db5fd120",
+          "rel": "related"
+        }
+      },
+      "id": "4f4e4a0de4b07f02db5fd120",
+      "title": "Water Resources Data for California, Water Year 1986. Volume 5. Ground-Water Data for California",
+      "body": "Water resources data for the 1986 water year for California consist of records of stage, discharge, and water quality of streams; stage and contents in lakes and reservoirs; and water levels and water quality in wells. Volume 5 contains water levels for 765 observation wells and water-quality data for 174 observation wells. These data represent that part of the National Water Data System operated by the U.S. Geological Survey and cooperating State and Federal agencies in California.",
+      "files": [
+        {
+          "size": 2477,
+          "dateUploaded": "2014-07-21T20:43:17.002Z",
+          "name": "metadata7267444212923820407.xml",
+          "pathOnDisk": "__disk__fe/5f/97/fe5f97bf5d334e0fb15fc81caec69e5e66675248",
+          "contentType": "application/mods+xml",
+          "url": "https://www.sciencebase.gov/catalog/file/get/4f4e4a0de4b07f02db5fd120?f=__disk__fe%2F5f%2F97%2Ffe5f97bf5d334e0fb15fc81caec69e5e66675248"
+        }
+      ]
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/4f4e4a00e4b07f02db5f7d0f"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=4f4e4a00e4b07f02db5f7d0f",
+          "rel": "related"
+        }
+      },
+      "id": "4f4e4a00e4b07f02db5f7d0f",
+      "title": "Water resources data Texas, water year 2004, volume 6. ground water",
+      "body": " Water-resources data for the 2004 water year for Texas consists of records of stage, discharge, and water quality of streams; stage and contents in lakes and reservoirs; and water levels and water quality in wells. Volume 6 contains water levels for 913 groundwater observation wells and water-quality data for 150 monitoring wells. These data represent that part of the National Water Data System operated by the U.S. Geological Survey and cooperating Federal, State, and local agencies in Texas.",
+      "files": [
+        {
+          "size": 2060,
+          "dateUploaded": "2016-08-31T10:30:33.958Z",
+          "name": "metadata4530819882888093892.xml",
+          "pathOnDisk": "__disk__b9/b7/ce/b9b7ce89d74e6c02ae5d056fd2d439831778c943",
+          "contentType": "application/mods+xml",
+          "url": "https://www.sciencebase.gov/catalog/file/get/4f4e4a00e4b07f02db5f7d0f?f=__disk__b9%2Fb7%2Fce%2Fb9b7ce89d74e6c02ae5d056fd2d439831778c943"
+        }
+      ]
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/4f4e4a08e4b07f02db5f9c3f"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=4f4e4a08e4b07f02db5f9c3f",
+          "rel": "related"
+        }
+      },
+      "id": "4f4e4a08e4b07f02db5f9c3f",
+      "title": "Water Resources Data, Texas Water Year 1998, Volume 4. Ground Water",
+      "body": "Water-resources data for the 1998 water year for Texas consists of records of stage, discharge, and water quality of streams; stage and contents in lakes and reservoirs; and water levels and water quality in wells. Volume 4 contains water levels for 759 observation wells and 146 water-quality data for monitoring wells. These data represent that part of the National Water Data System operated by the U.S. Geological Survey and cooperating Federal, State, and local agencies in Texas.",
+      "files": [
+        {
+          "size": 2001,
+          "dateUploaded": "2016-08-31T10:30:23.892Z",
+          "name": "metadata6222120499391166550.xml",
+          "pathOnDisk": "__disk__56/f5/b2/56f5b2ec22fdd77d0c2734c5d81f65407e59082e",
+          "contentType": "application/mods+xml",
+          "url": "https://www.sciencebase.gov/catalog/file/get/4f4e4a08e4b07f02db5f9c3f?f=__disk__56%2Ff5%2Fb2%2F56f5b2ec22fdd77d0c2734c5d81f65407e59082e"
+        }
+      ]
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/4f4e4a4ae4b07f02db62525c"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=4f4e4a4ae4b07f02db62525c",
+          "rel": "related"
+        }
+      },
+      "id": "4f4e4a4ae4b07f02db62525c",
+      "title": "Water resources data - Texas water year 2001 : Volume 6. Ground water",
+      "body": "Water-resources data for the 2001 water year for Texas consists of records of stage, discharge, and water quality of streams; stage and contents in lakes and reservoirs; and water levels and water quality in wells. Volume 6 contains water levels for 908 observation wells and water-quality data for 155 monitoring wells. These data represent that part of the National Water Data System operated by the U.S. Geological Survey and cooperating Federal, State, and local agencies in Texas.",
+      "files": [
+        {
+          "size": 1976,
+          "dateUploaded": "2016-08-31T10:30:30.658Z",
+          "name": "metadata5466654393232870553.xml",
+          "pathOnDisk": "__disk__11/7d/5a/117d5a080e19fb16b38e043b04421156b59d0d32",
+          "contentType": "application/mods+xml",
+          "url": "https://www.sciencebase.gov/catalog/file/get/4f4e4a4ae4b07f02db62525c?f=__disk__11%2F7d%2F5a%2F117d5a080e19fb16b38e043b04421156b59d0d32"
+        }
+      ]
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/4f4e4a0de4b07f02db5fd04f"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=4f4e4a0de4b07f02db5fd04f",
+          "rel": "related"
+        }
+      },
+      "id": "4f4e4a0de4b07f02db5fd04f",
+      "title": "Water Resources Data - Texas, Water Year 2002, Volume 6. Ground Water",
+      "body": "Water-resources data for the 2002 water year for Texas consists of records of stage, discharge, and water quality of streams; stage and contents in lakes and reservoirs; and water levels and water quality in wells. Volume 6 contains water levels for 960 observation wells and water-quality data for 173 monitoring wells. These data represent that part of the National Water Data System operated by the U.S. Geological Survey and cooperating Federal, State, and local agencies in Texas.",
+      "files": [
+        {
+          "size": 1977,
+          "dateUploaded": "2016-08-31T10:30:20.424Z",
+          "name": "metadata8503614301753364280.xml",
+          "pathOnDisk": "__disk__56/cf/0a/56cf0a3d22cc2c224093751cb5b389110d7a3645",
+          "contentType": "application/mods+xml",
+          "url": "https://www.sciencebase.gov/catalog/file/get/4f4e4a0de4b07f02db5fd04f?f=__disk__56%2Fcf%2F0a%2F56cf0a3d22cc2c224093751cb5b389110d7a3645"
+        }
+      ]
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/505bc675e4b08c986b32bf8d"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=505bc675e4b08c986b32bf8d",
+          "rel": "related"
+        }
+      },
+      "id": "505bc675e4b08c986b32bf8d",
+      "title": "Water Resources Data, New Jersey, Water Year 1991. Volume 2. Ground-Water Data",
+      "body": "Water Resources data for the 1991 water year for New Jersey consists of records of stage, discharge, and water quality of streams; stage, contents, and water quality of lakes and reservoirs; and water levels and water quality of ground water. Volume 2 contains records of ground-water levels from 241 wells and water-quality analyses of ground water from 158 wells. These data represent that part of the National Water Data System operated by the U.S. Geological Survey and cooperating State and Federal agencies in New Jersey.",
+      "files": [
+        {
+          "size": 2427,
+          "dateUploaded": "2014-07-21T20:44:53.303Z",
+          "name": "metadata6977902902973384425.xml",
+          "pathOnDisk": "__disk__c7/86/43/c7864305bea8ce9370e3d19d598aaf887cdb3588",
+          "contentType": "application/mods+xml",
+          "url": "https://www.sciencebase.gov/catalog/file/get/505bc675e4b08c986b32bf8d?f=__disk__c7%2F86%2F43%2Fc7864305bea8ce9370e3d19d598aaf887cdb3588"
+        }
+      ]
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/4f4e4a0ae4b07f02db5fbabd"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=4f4e4a0ae4b07f02db5fbabd",
+          "rel": "related"
+        }
+      },
+      "id": "4f4e4a0ae4b07f02db5fbabd",
+      "title": "Water Resources Data, Florida, Water Year 2001, Volume 3B. Southwest Florida Ground Water",
+      "body": "Water resources data for the 2001 water year in Florida consist of continuous or daily discharges for 406 streams, periodic discharge for 12 streams, continuous daily stage for 142 streams, periodic stage for 12 streams, peak stage and discharge for 37 streams, continuous or daily elevations for 11 lakes, periodic elevations for 30 lakes; continuous ground-water levels for 424 wells, periodic ground-water levels for 1,426 wells, and quality-of-water data for 80 surface-water sites and 245 wells. \r\n\r\nThe data for Southwest Florida include records of stage, discharge, and water quality of streams; stage, contents, water quality of lakes and reservoirs, and water levels and water quality of ground-water wells. Volume 3B contains records for continuous ground-water elevations for 128 wells; periodic ground-water elevations at 33 wells; miscellaneous ground-water elevations at 347 wells; and water quality at 25 ground-water sites. \r\n\r\nThese data represent the national Water Data System records collected by the U.S. Geological Survey and cooperating local, state, and federal agencies in Florida.",
+      "files": [
+        {
+          "size": 2704,
+          "dateUploaded": "2014-07-21T20:44:21.015Z",
+          "name": "metadata1897460092821052358.xml",
+          "pathOnDisk": "__disk__96/56/1e/96561e8069ded98329891c4fe1af4a70eca75b52",
+          "contentType": "application/mods+xml",
+          "url": "https://www.sciencebase.gov/catalog/file/get/4f4e4a0ae4b07f02db5fbabd?f=__disk__96%2F56%2F1e%2F96561e8069ded98329891c4fe1af4a70eca75b52"
+        }
+      ]
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/4f4e4a0de4b07f02db5fd351"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=4f4e4a0de4b07f02db5fd351",
+          "rel": "related"
+        }
+      },
+      "id": "4f4e4a0de4b07f02db5fd351",
+      "title": "Water Resources Data - New Jersey, Water Year 1999, Volume 3, Water-Quality Data",
+      "body": "Water-resources data for the 1999 water year for New Jersey are presented in three volumes, and consists of records of stage, discharge, and water quality of streams; stage and contents of lakes and reservoirs; and water levels and water quality of ground water. Volume 3 contains a summary of surface and ground water hydrologic conditions for the 1999 water year, a listing of current water-resource projects in New Jersey, a bibliography of water-related reports, articles, and fact sheets for New Jersey completed by the Geological Survey in recent years, water-quality records of chemical analyses from 133 surface-water stations, 46 miscellaneous surface-water sites, 30 ground-water stations, 41 miscellaneous ground-water sites, and records of daily statistics of temperature and other physical measurements from 17 continuous-monitoring stations. Locations of water-quality stations are shown in figures 11 and 17-20. Locations of miscellaneous water-quality sites are shown in figures 29-32 and 34. These data represent the part of the National Water Data System operated by the U.S. Geological Survey and cooperating Federal, State, and local agencies in New Jersey.",
+      "files": [
+        {
+          "size": 3186,
+          "dateUploaded": "2014-07-21T20:43:04.382Z",
+          "name": "metadata2424688340707333793.xml",
+          "pathOnDisk": "__disk__66/61/54/66615491110693e49e096262a90e5ac4e1175b94",
+          "contentType": "application/mods+xml",
+          "url": "https://www.sciencebase.gov/catalog/file/get/4f4e4a0de4b07f02db5fd351?f=__disk__66%2F61%2F54%2F66615491110693e49e096262a90e5ac4e1175b94"
+        }
+      ]
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/4f4e4b05e4b07f02db6998da"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=4f4e4b05e4b07f02db6998da",
+          "rel": "related"
+        }
+      },
+      "id": "4f4e4b05e4b07f02db6998da",
+      "title": "Water Resources Data North Dakota Water Year 2002, Volume 2. Ground Water",
+      "body": "Water-resources data for the 2002 water year for North Dakota consists of records of discharge, stage, and water quality for streams; contents, stage, and water quality for lakes and reservoirs; and water levels and water quality for ground-water wells.  Volume 2 contains water-level records for 117 ground-water wells and water-quality records for 65 monitoring wells.  These data represent that part of the National Water Data System operated by the U.S. Geological Survey and cooperating Federal, State, and local agencies in North Dakota.",
+      "files": [
+        {
+          "size": 2073,
+          "dateUploaded": "2014-07-21T20:43:09.531Z",
+          "name": "metadata359254850355128665.xml",
+          "pathOnDisk": "__disk__76/1b/17/761b176a7006ad0e90f4f3e9124d0e7eeb120441",
+          "contentType": "application/mods+xml",
+          "url": "https://www.sciencebase.gov/catalog/file/get/4f4e4b05e4b07f02db6998da?f=__disk__76%2F1b%2F17%2F761b176a7006ad0e90f4f3e9124d0e7eeb120441"
+        }
+      ]
+    }
+  ]
+}
