@@ -1,17 +1,14 @@
-# File Picker
+File Picker, move files to AWS S3
+=====================
 
-## Boilerplate
+Built using example in redux docs: [http://rackt.github.io/redux/docs/advanced/ExampleRedditAPI.html](http://rackt.github.io/redux/docs/advanced/ExampleRedditAPI.html)
 
-Uses the [react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit) for the starting boilerplate.  See the kit's [readme](https://github.com/davezuko/react-redux-starter-kit/blob/master/README.md) for explanation of the [fractal](https://github.com/davezuko/react-redux-starter-kit/wiki/Fractal-Project-Structure) project structure.
+Project based on: [https://github.com/gaearon/react-transform-boilerplate](https://github.com/gaearon/react-transform-boilerplate)
 
-## Express for Initial Development
-
-Currently using Express as a server, convert to a Java SpringBoot server is likely a good idea.
-
-## Run It
-
-```bash
-$ npm install                   # Install project dependencies
-$ npm start                     # Compile and launch
 ```
-If everything works, you should have a server running at http://localhost:3000
+git clone https://github.com/digitalcrust/file-picker.git
+cd file-picker
+npm install
+npm start
+open http://localhost:3000
+```
