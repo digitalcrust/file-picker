@@ -56,6 +56,7 @@
     "webpack-hot-middleware": "^2.9.1"
   },
   "dependencies": {
+    "css-loader": "^0.26.0",
     "isomorphic-fetch": "^2.2.1",
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
@@ -63,6 +64,7 @@
     "redux": "^3.6.0",
     "redux-logger": "^2.7.0",
     "redux-thunk": "^2.1.0",
-    "socket.io": "^1.5.1"
+    "socket.io": "^1.6.0",
+    "style-loader": "^0.13.1"
   }
 }
