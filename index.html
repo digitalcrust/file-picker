@@ -3,7 +3,7 @@
   <head>
     <title>Sciencebase to S3 file copy</title>
   </head>
-  <script src="/jquery.js"></script>
+  <!-- <script src="jquery.js"></script> -->
   <script src="sockjs.js"></script>
   <script src="stomp.js"></script>
 
@@ -17,42 +17,9 @@
         </div>
       </div>
     </div>
-    <!-- <a href="http://localhost:9000/login/google">Login</a> -->
-
-    <!-- <input type="button" id="send"></input> -->
-    <!-- <input type="button" id="connect">connect</input> -->
-    <!-- <input type="text" id="filename"></input> -->
     <div id='root'>
     </div>
     <script src="/static/bundle.js"></script>
     <ul id="messages"></ul>
   </body>
-  <script>
-  $(function () {
-    var stompClient;
-    var connected = false;
-
-    toggleConnection()
-
-    function toggleConnection() {
-        if (!connected) {
-            const socket = new SockJS('http://localhost:8080/gs-guide-websocket')
-            stompClient = Stomp.over(socket)
-            stompClient.connect({}, function (frame) {
-                console.log('Connected: ' + frame)
-                stompClient.subscribe('/topic/greetings', function (greeting) {
-                    $("#greetings").append("<tr><td>" + JSON.parse(greeting.body).content + "</td></tr>")
-                })
-            })
-        } else {
-            stompClient.disconnect()
-        }
-        connected = !connected
-        $('#connect').html((connected ? 'disconnect' : 'connect') + ' web socket')
-        $('#connectedcomponents').toggle(connected)
-        $('#greetings').html('')
-    }
-
-});
-  </script>
 </html>

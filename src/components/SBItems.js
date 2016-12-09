@@ -10,7 +10,7 @@ export default class SBItems extends Component {
         {this.props.sbitems.map((item, i) =>
           <section key={i} className='scienceBaseItem'>
             <a href={item.link.url} className='title'>{item.title}</a>
-            <p className='description'>{item.body}</p>
+            <div className="descriptionContainer"><p className='description'>{item.body}</p></div>
             <SBItemFiles sbfiles={item.files} movefile={this.props.movefile} stomper={this.props.stomper}></SBItemFiles>
           </section>
         )}

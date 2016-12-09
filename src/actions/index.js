@@ -1,10 +1,17 @@
 import fetch from 'isomorphic-fetch';
 
+export const FILE_STATUS_UPDATE = 'FILE_STATUS_UPDATE'
+export const REQUEST_SB_ITEMS = 'REQUEST_SB_ITEMS'
+export const RECEIVE_SB_ITEMS = 'RECEIVE_SB_ITEMS'
+export const SELECT_SB_QUERY = 'SELECT_SB_QUERY'
+export const INVALIDATE_SB_QUERY = 'INVALIDATE_SB_QUERY'
 
-export const REQUEST_SB_ITEMS = 'REQUEST_SB_ITEMS';
-export const RECEIVE_SB_ITEMS = 'RECEIVE_SB_ITEMS';
-export const SELECT_SB_QUERY = 'SELECT_SB_QUERY';
-export const INVALIDATE_SB_QUERY = 'INVALIDATE_SB_QUERY';
+export function fileStatusUpdate(json) {
+  return {
+    type: FILE_STATUS_UPDATE,
+    json
+  }
+}
 
 export function selectSBQuery(sbquery) {
   return {

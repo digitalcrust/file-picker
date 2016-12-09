@@ -3,7 +3,10 @@ require('../styles/index.css')
 
 export default class PaginationNavigator extends Component {
   toggleDescriptions() {
-    $('.description').toggle();
+    const descriptions = document.querySelectorAll('.description')
+    for (const description of descriptions) {
+      description.style.display = description.style.display == 'block' ? 'none' : 'block';
+    }
   }
   render () {
 

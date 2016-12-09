@@ -5,6 +5,7 @@ import PaginationNavigator from '../components/PaginationNavigator';
 import SearchEntry from '../components/SearchEntry';
 import SBItems from '../components/SBItems';
 
+
 class AsyncApp extends Component {
   constructor(props) {
     super(props);
@@ -42,6 +43,21 @@ class AsyncApp extends Component {
 
   render () {
     const { sbQuery, sbitems, isFetching, lastUpdated } = this.props;
+
+    var socket = new SockJS('http://localhost:9000/upload-status-websocket')
+    var stomper = Stomp.over(socket)
+    stomper.connect({}, function (frame) {
+        console.log('Connected: ' + frame)
+        document.getElementById('transferstatus').textContent = ''
+        stomper.subscribe('/user/queue/pull-status', function (status) {
+          const statusbody = JSON.parse(status.body)
+          const complete = 'COMPLETED' === statusbody.status
+          document.getElementById('transferstatus').textContent = complete ? '' : statusbody.message
+        })
+    })
+
+
+
     return (
       <div>
         <div id='transferstatus'></div>
@@ -70,7 +86,7 @@ class AsyncApp extends Component {
         }
         {sbitems.length > 0 &&
           <div style={{ opacity: isFetching ? 0.5 : 1 }}>
-            <SBItems sbitems={sbitems} stomper={this.props.stomper}/>
+            <SBItems sbitems={sbitems} stomper={stomper}/>
           </div>
         }
         <PaginationNavigator></PaginationNavigator>
