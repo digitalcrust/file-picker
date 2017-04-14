@@ -1,5 +1,7 @@
 FROM node:latest
 
+RUN npm config strict-ssl false
+
 RUN npm install webpack -g
 # Create app directory
 RUN mkdir -p /usr/src/app

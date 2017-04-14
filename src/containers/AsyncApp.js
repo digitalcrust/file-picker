@@ -61,6 +61,7 @@ class AsyncApp extends Component {
     return (
       <div>
         <div id='transferstatus'></div>
+
         <SearchEntry value={sbQuery}
                 onChange={this.handleSearchChange}
                 onSearch={this.handleSearchRequest} />
@@ -76,8 +77,9 @@ class AsyncApp extends Component {
                onClick={this.handleRefreshClick}>
               Refresh
             </a>
-          }
+          }                    
         </p>
+        <p><a href='/login/google'>Login</a></p>
         {isFetching && sbitems.length === 0 &&
           <h2>Loading...</h2>
         }
